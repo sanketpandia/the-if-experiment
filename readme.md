@@ -1,6 +1,6 @@
-Modular bot:
+The IF Experiment
 
-VA Specific connections required configs:
+## ***Required VA related Configs***
 ## Regex Pattern: 
 - To fetch callsign from Discord display name
 - To recognise callsign in IF live api
