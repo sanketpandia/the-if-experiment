@@ -4,7 +4,7 @@ const liveService = require('../helper_services/if_live_api_helper')
 const messageCreator = require('../helper_services/message_creator');
 
 module.exports = {
-    name: "live",
+    name: "live_mini",
     description: "Get the live flying stats of the VA members",
     async execute(message) {
         let guildId = message.guild.id;

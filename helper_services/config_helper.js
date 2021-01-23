@@ -19,3 +19,7 @@ exports.loadMasterConfigs = async function(){
 exports.writeAircraftDatastore = async function(data){
     fs.writeFileSync("./assets_contents/aircraft_datastore.json", JSON.stringify(data));
 }
+exports.readAircraftDatastore = async function(data){
+    let fileContents = JSON.parse(fs.readFileSync('./assets_contents/aircraft_datastore.json'));
+    return fileContents;
+}
