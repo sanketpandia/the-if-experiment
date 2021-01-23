@@ -38,6 +38,7 @@ client.on('message', message => {
     const commandName = args.shift().toLowerCase();
     if (!client.commands.has(commandName)) {
         client.commands.get('help').execute(message);
+        return
     }
     const command = client.commands.get(commandName);
     
