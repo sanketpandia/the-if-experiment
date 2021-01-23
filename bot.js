@@ -18,7 +18,7 @@ for (const file of commandFiles) {
 }
 
 //Load bot configs
-let rawConfig = fs.readFileSync('./configs/master-configs.json')
+let rawConfig = fs.readFileSync('./configs/master_configs.json')
 let botConfigs = JSON.parse(rawConfig)
 
 let botPrefix = botConfigs.botPrefix

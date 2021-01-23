@@ -24,6 +24,7 @@
   "homepage": "https://github.com/sanketpandia/the-aircraft-experiment#readme",
   "dependencies": {
     "airtable": "^0.10.1",
+    "csvtojson": "^2.0.10",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0"
   }
