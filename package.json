@@ -4,8 +4,7 @@
   "description": "A bot for discord which connects discord and airtable, along with the IF Live API. ",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bot.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -29,8 +28,6 @@
     "csvtojson": "^2.0.10",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0"
-  },"engines": {
-    "node": "14.15.4"
   }
 
 }
