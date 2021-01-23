@@ -54,3 +54,30 @@ exports.createLiveMessage = async function(responseObj){
 
     return responseMessages;
 }
+
+exports.createLiveMiniMessage = async function(responseObj){
+
+    let responseMessages = []
+    let responseMessage = '```'; 
+    for (let i =0; i < responseObj.length; i++){
+        if(responseMessage.length > 1700){
+            responseMessages.push(responseMessage + '\n```');
+            responseMessage = '```';
+        }
+        responseMessage += `
+        Callsign: ${responseObj[i]['callsign']}
+        IFC Username: ${responseObj[i]['username']}
+        Aircraft: ${responseObj[i]['aircraft']}
+        Livery: ${responseObj[i]['livery']}
+        Altitude: ${responseObj[i]['altitude']}
+        Ground Speed: ${responseObj[i]['gs']}
+        Route: ${responseObj[i]['route']}
+
+        `
+    }
+    responseMessages.push(responseMessage+ '\n```');
+
+
+    return responseMessages;
+}
+

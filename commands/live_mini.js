@@ -15,7 +15,7 @@ module.exports = {
         }
         message.channel.send('Fetching your VAs live flights. Give me a second or two.')
         var liveFlights = await liveService.getFlights(process.env.IF_API_KEY, guildData);
-        var messages = await messageCreator.createLiveMessage(liveFlights);
+        var messages = await messageCreator.createLiveMiniMessage(liveFlights);
         for(let i=0; i<messages.length; i++)message.channel.send(messages[i]);
     }
 }
