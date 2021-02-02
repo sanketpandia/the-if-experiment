@@ -1,5 +1,10 @@
 The IF Experiment
 
+## Table of contents
+* [Commands](#Commands)
+* [Configure_Without_Airtable](#How to configure the bot for your VA)
+* [Setup](#setup)
+
 ## Commands
 ## pilot_stats: 
 - Fetches the stats of the pilot from the airtable database. Needs to be configured properly. Check docs for configuration
@@ -44,10 +49,10 @@ The IF Experiment
 - Fetches the checklists of the aircraft you are currently flying.
 - Need to be in VA discord with the callsign patterns configured.
 
-### How to configure the bot for your VA
+## How to configure the bot for your VA
 
-# Let's start with live flights and other IF related stuff. 
 
+- Install the bot in your server from the 
 - Head over to https://github.com/sanketpandia/the-if-experiment/blob/main/example_config.json and copy the contents of the file
 - In your discord server, create a channel (preferably Private) by the name of 'the-aircraft-experiment', and allow the bot access to the channel
 - Open a notepad or any other text editor in your PC.
