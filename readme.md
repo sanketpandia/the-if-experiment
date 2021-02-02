@@ -2,8 +2,8 @@ The IF Experiment
 
 ## Table of contents
 * [Commands](#Commands)
+* [Installation](#Installation)
 * [Configure](#Configure)
-* [Setup](#setup)
 
 ## Commands
 ## pilot_stats: 
@@ -97,3 +97,6 @@ The IF Experiment
  - go to a public channel now and run the command '>update'. You should get a reply 'Configs updated successfully'.
 ## Now you may try out all the commands in the list. You won't be able to use cm_stats and pilot_stats. You should be good to go. 
 
+## Installation
+
+- Click [here](https://discord.com/api/oauth2/authorize?client_id=802526146058911765&permissions=121856&scope=bot) to install the bot in your server
