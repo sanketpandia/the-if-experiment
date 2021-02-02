@@ -2,7 +2,7 @@ The IF Experiment
 
 ## Table of contents
 * [Commands](#Commands)
-* [Configure](#How to configure the bot for your VA)
+* [Configure](#Configure)
 * [Setup](#setup)
 
 ## Commands
