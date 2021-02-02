@@ -49,6 +49,10 @@ The IF Experiment
 - Fetches the checklists of the aircraft you are currently flying.
 - Need to be in VA discord with the callsign patterns configured.
 
+## Installation
+
+- Click [here](https://discord.com/api/oauth2/authorize?client_id=802526146058911765&permissions=121856&scope=bot) to install the bot in your server
+
 ## Configure
 
 
@@ -97,6 +101,3 @@ The IF Experiment
  - go to a public channel now and run the command '>update'. You should get a reply 'Configs updated successfully'.
 ## Now you may try out all the commands in the list. You won't be able to use cm_stats and pilot_stats. You should be good to go. 
 
-## Installation
-
-- Click [here](https://discord.com/api/oauth2/authorize?client_id=802526146058911765&permissions=121856&scope=bot) to install the bot in your server
