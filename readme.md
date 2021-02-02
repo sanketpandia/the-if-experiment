@@ -92,8 +92,7 @@ The IF Experiment
         "ifatc": "https://ifatc.org",
         "cc": "https://infiniteflight.com"
     }
-    
-}
+    }
     ```
 
  - Validate your text in `https://jsonlint.com/`. Copy the text and paste it in the text box there and click on 'Validate JSON'. 
