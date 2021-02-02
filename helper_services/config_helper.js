@@ -23,3 +23,7 @@ exports.readAircraftDatastore = async function(data){
     let fileContents = JSON.parse(fs.readFileSync('./assets_contents/aircraft_datastore.json'));
     return fileContents;
 }
+
+exports.getChecklistFiles = async function(){
+    return fs.readdirSync('./assets_contents/checklists');
+}

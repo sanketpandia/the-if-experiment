@@ -26,7 +26,7 @@ let botPrefix = botConfigs.botPrefix
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
     try {
-        let toSay = "**The bot has been updated. Use the update command if your commands aren't working.**\n Sorry I can't control which channel this goes to. Make sure to delete this if this is in the #the-aircraft-experiment channel before running the update command. The >aircraft command has been added. \n@here"
+        let toSay = "The bot has been updated. Please do >update to re update your configs. Visit ***https://github.com/sanketpandia/the-if-experiment/blob/main/readme.md*** for new commands.\nSorry I can't control which channel this goes to. Make sure to delete this if this is in the #the-aircraft-experiment channel before running the update command. Multiple new commands have been added. "
         client.guilds.cache.map((guild) => {
           let found = 0
           guild.channels.cache.map((c) => {
@@ -46,8 +46,6 @@ client.on('ready', () => {
       catch (err) {
         console.log("Could not send message to a (few) guild(s)!");
       }
-    // for guild in bot.guilds:
-    // await guild.text_channels[0].send(<message>)
 })
 
 client.on('message', message => {
