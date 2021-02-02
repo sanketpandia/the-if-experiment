@@ -132,3 +132,37 @@ exports.getUserStats = async function(ifApiKey, username){
     if(result.length > 0) response = result[0];
     return response;
 }
+
+exports.getATIS = async function(airportIcao, ifApiKey){
+    let configs = await masterConfigs.loadMasterConfigs();
+    let sessionId = await getSession(ifApiKey, configs);
+    let atisResponse = "";
+    try{
+    let atis = await axios.get(`${configs['IF_API_URL']}/airport/${airportIcao}/atis/${sessionId['id']}?apikey=${ifApiKey}`)
+    atisResponse = atis.data['result'];
+    return atisResponse;
+    }catch{
+        return atisResponse;
+    }
+}
+
+exports.getUserFlight = async function (ifApiKey, callsign) {
+    let configs = await masterConfigs.loadMasterConfigs();
+    let sessionId = await getSession(ifApiKey, configs);
+    var rxPattern = new RegExp(callsign);
+    let aircraft_datastore = await masterConfigs.readAircraftDatastore();
+    let allFlights = await axios.get(`${configs["IF_API_URL"]}/flights/${sessionId['id']}?apikey=${ifApiKey}`);
+    let aircraft = '';
+    let userFlightObj = {};
+    allFlights.data['result'].forEach(element => {
+        if (rxPattern.test(element['callsign'])) userFlightObj = element;
+    })
+    if(Object.keys(userFlightObj).length === 0 && userFlightObj.constructor === Object)return '';
+    
+    for(let j = 0; j < aircraft_datastore.length; j++){
+        if(aircraft_datastore[j]['AircraftId'] === userFlightObj['aircraftId']){
+            aircraft = aircraft_datastore[j]['AircraftName'];
+        }
+    }
+    return aircraft;
+}

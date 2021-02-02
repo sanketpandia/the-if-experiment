@@ -12,13 +12,13 @@ module.exports = {
             return
         }
         else {
-            let ATISInfo = await ifHelper.getATIS(splitMessage[1].toUpperCase());
+            let ATISInfo = await ifHelper.getATIS(splitMessage[1].toUpperCase(), process.env.IF_API_KEY);
             if(ATISInfo === ""){
                 message.channel.send('Airport does not seem to be active right now. Check >ifatc for active airports.');
                 return;
             }
-            let responseMessage = await message_creator.createATIS(ATISInfo);
-            message.channel.send(responseMessage)
+            let response = "```\n"+ATISInfo + '\n```';
+            message.channel.send(response)
         }
     }
 }

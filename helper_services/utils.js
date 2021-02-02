@@ -52,3 +52,15 @@ async function loadCSV(filename){
     });
     return aircraftData
 }
+exports.getLiveCallsign = async function(message, discordPattern, ifPattern){
+    var value = ""
+    let pattern = discordPattern.replace("xxx", "(\\d\\d\\d)");
+    var rxPattern = new RegExp(pattern);
+    //console.log(rxPattern);
+    await message.guild.members.fetch(message.author.id).then(data => {
+        var arr = rxPattern.exec(data.displayName);
+        var x= ifPattern.replace('xxx', arr[1]);
+        value = x;
+    }).catch(console.log);
+    return value
+}

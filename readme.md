@@ -35,8 +35,15 @@ The IF Experiment
 - Usage syntax `>if_stats Cameron`
 - Fetches the in game stats of the user
 
+## atis
+- Usage syntax `>atis EGLL`
+- Fetches the ATIS information of Active Airports in the Expert Server
+
+## prep_my_flight
+- Usage syntax `>prep_my_flight`
+- Fetches the checklists of the aircraft you are currently flying.
+- Need to be in VA discord with the callsign patterns configured.
+
 ## TBD
-- Live ATIS
-- Prep my flight
 - live_small
 - help
