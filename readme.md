@@ -4,6 +4,7 @@ The IF Experiment
 * [Commands](#Commands)
 * [Installation](#Installation)
 * [Configure](#Configure)
+* [Airtable_Configs](#Airtable_Configs)
 
 ## Commands
 ## pilot_stats: 
@@ -99,3 +100,4 @@ The IF Experiment
  - go to a public channel now and run the command '>update'. You should get a reply 'Configs updated successfully'.
 ### Now you may try out all the commands in the list. You won't be able to use cm_stats and pilot_stats. You should be good to go. 
 
+## Airtable_Configs
