@@ -182,7 +182,7 @@ exports.createUserMessage = async function (userInfo) {
             inline: true
         }, {
             name: "VA/VO",
-            value: userInfo['virtualOrganization']
+            value: (userInfo['virtualOrganization'] !== '') ? userInfo['virtualOrganization'] : 'No VO linked'
         }, {
             name: "Total Flights",
             value: userInfo['onlineFlights'],
