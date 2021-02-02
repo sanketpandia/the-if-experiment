@@ -56,7 +56,6 @@ The IF Experiment
 ## Configure
 
 
-- Install the bot in your server from the 
 - Head over to https://github.com/sanketpandia/the-if-experiment/blob/main/example_config.json and copy the contents of the file
 - In your discord server, create a channel (preferably Private) by the name of 'the-aircraft-experiment', and allow the bot access to the channel
 - Open a notepad or any other text editor in your PC.
