@@ -3,9 +3,10 @@ const csvtojsonV2 = require("csvtojson");
 
 exports.getCallSign = async function getCallsign(message, pattern, callsignPrefix){
     var value = ""
-    console.log("Entering callsign match.");
+    pattern = pattern.replace("xxx", "(\\d\\d\\d)");
+    var rxPattern = new RegExp(pattern);
+    //console.log(rxPattern);
     await message.guild.members.fetch(message.author.id).then(data => {
-        var rxPattern = new RegExp(pattern);
         var arr = rxPattern.exec(data.displayName);
         var x= callsignPrefix + arr[1];
         value = x;
@@ -17,6 +18,7 @@ exports.filterRecordByCallsign = async function(records, callsignField, callsign
     callsign = callsign.replace(' ', '').toUpperCase().normalize();
     let returnObj = {}
     await records.forEach(element => {
+        //console.log(element);
         let callsign_i = element[callsignField];
         callsign_i = callsign_i.replace(' ', '').toUpperCase().normalize();
         //console.log(callsign, callsign_i, callsign === callsign_i);

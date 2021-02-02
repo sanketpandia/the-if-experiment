@@ -10,5 +10,6 @@ exports.fetchCareerModeLogs = async function(airtableConfigs){
     }).catch(err => {
         console.log(err);
     })
+    
     return airtableData;
 }

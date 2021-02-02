@@ -26,6 +26,7 @@ exports.getFlights = async function (ifApiKey, guildConfigs) {
 async function getAllFlights(sessionId, ifApiUrl, ifApiKey, callsignPattern) {
     let filteredFlights = [];
     let allFlights = await axios.get(`${ifApiUrl}/flights/${sessionId}?apikey=${ifApiKey}`);
+    console.log(`${ifApiUrl}/flights/${sessionId}?apikey=${ifApiKey}`);
     allFlights.data['result'].forEach(element => {
         if (callsignPattern.test(element['callsign'])) filteredFlights.push(element);
     })
