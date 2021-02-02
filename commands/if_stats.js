@@ -13,14 +13,18 @@ module.exports = {
         }
         else {
             let userInfo = await ifHelper.getUserStats(process.env.IF_API_KEY, splitMessage[1].toUpperCase());
-            //console.log(userInfo);
+            console.log(userInfo);
             if(Object.keys(userInfo).length === 0 && userInfo.constructor === Object){
                 console.log('User data not found');
                 message.channel.send('Could not find the username in IF. Check again to make sure the name is proper');
                 return;
             }
+            try{
             let responseMessage = await message_creator.createUserMessage(userInfo);
             message.channel.send(responseMessage)
+            }catch{
+                message.channel.send(userInfo.toString());
+            }
         }
     }
 }
