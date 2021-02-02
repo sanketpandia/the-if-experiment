@@ -49,7 +49,7 @@ The IF Experiment
 - Fetches the checklists of the aircraft you are currently flying.
 - Need to be in VA discord with the callsign patterns configured.
 
-## How to configure the bot for your VA
+## Configure
 
 
 - Install the bot in your server from the 
