@@ -2,7 +2,7 @@ The IF Experiment
 
 ## Table of contents
 * [Commands](#Commands)
-* [Configure_Without_Airtable](#How to configure the bot for your VA)
+* [Configure](#How to configure the bot for your VA)
 * [Setup](#setup)
 
 ## Commands
