@@ -26,7 +26,6 @@ exports.getFlights = async function (ifApiKey, guildConfigs) {
 async function getAllFlights(sessionId, ifApiUrl, ifApiKey, callsignPattern) {
     let filteredFlights = [];
     let allFlights = await axios.get(`${ifApiUrl}/flights/${sessionId}?apikey=${ifApiKey}`);
-    console.log(`${ifApiUrl}/flights/${sessionId}?apikey=${ifApiKey}`);
     allFlights.data['result'].forEach(element => {
         if (callsignPattern.test(element['callsign'])) filteredFlights.push(element);
     })
@@ -80,4 +79,56 @@ async function getAllFlightPlans(ifApiUrl, ifApiKey, sessionId, vaFLights){
         
     }
     return responseObj;
+}
+
+exports.getATC = async function(ifApiKey, masterConfigs){
+    let sessionId = await getSession(ifApiKey, masterConfigs);
+    let allAtc = await axios.get(`${masterConfigs['IF_API_URL']}/atc/${sessionId['id']}?apikey=${ifApiKey}`);
+    let groupedData = await groupATCjson(allAtc.data['result']);
+    return groupedData;
+}
+
+async function groupATCjson(jsonObj){
+    let airports = {}
+    for(let i = 0; i< jsonObj.length; i++){
+        let airportName = jsonObj[i]['airportName'];
+        if(airportName === null) airportName = 'Unknown';
+        //console.log(airportName, airportName in airports);
+        if(airportName in airports){
+            if(! airports[airportName]['controllers'].includes(jsonObj[i]['username'])) airports[airportName]['controllers'] += ( ', ' + jsonObj[i]['username']);
+            airports[airportName]['frequency'] += (await getFrequencyType(jsonObj[i]['type']));
+        }else{
+
+            airports[airportName] = {'controllers' : (jsonObj[i]['username'] === undefined || jsonObj[i]['username'] === null) ? 'xxx' : jsonObj[i]['username']};
+            airports[airportName]['frequency'] = (await getFrequencyType(jsonObj[i]['type']));
+        }
+    }
+    return airports;
+}
+
+async function getFrequencyType(freqInt){
+    const freq = {
+        '0': 'G',
+        '1': 'T',
+        '4': 'A',
+        '5': 'D',
+        '6': 'C',
+        '7': 'S'
+    }
+    if(freqInt.toString() in freq){
+        return freq[freqInt.toString()];
+    }else{
+        return 'U';
+    }
+}
+
+exports.getUserStats = async function(ifApiKey, username){
+    let configs = await masterConfigs.loadMasterConfigs();
+    const user = await axios.post(`${configs["IF_API_URL"]}/user/stats?apikey=${ifApiKey}`, {
+        discourseNames: [username]
+    });
+    let response = {};
+    let result = user.data['result'];
+    if(result.length > 0) response = result[0];
+    return response;
 }

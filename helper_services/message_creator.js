@@ -6,8 +6,8 @@ exports.createCmStatsMessage = async function (record, configFields, callsignFie
         let data = record[element["airtableColumnName"]];
         let fieldValue = data;
         let inline_status = false;
-        if("inline" in element && element["inline"] === "true") inline_status = true;
-        if("type" in element && element["type"] === "array") {
+        if ("inline" in element && element["inline"] === "true") inline_status = true;
+        if ("type" in element && element["type"] === "array") {
             fieldValue = data.join(", ");
         }
         if ("type" in element && element["type"] === "time") {
@@ -29,12 +29,12 @@ exports.createCmStatsMessage = async function (record, configFields, callsignFie
     return cmStatsResponse;
 }
 
-exports.createLiveMessage = async function(responseObj){
+exports.createLiveMessage = async function (responseObj) {
 
     let responseMessages = []
-    let responseMessage = '```'; 
-    for (let i =0; i < responseObj.length; i++){
-        if(responseMessage.length > 1700){
+    let responseMessage = '```';
+    for (let i = 0; i < responseObj.length; i++) {
+        if (responseMessage.length > 1700) {
             responseMessages.push(responseMessage + '\n```');
             responseMessage = '```';
         }
@@ -49,18 +49,18 @@ exports.createLiveMessage = async function(responseObj){
 
         `
     }
-    responseMessages.push(responseMessage+ '\n```');
+    responseMessages.push(responseMessage + '\n```');
 
 
     return responseMessages;
 }
 
-exports.createLiveMiniMessage = async function(responseObj){
+exports.createLiveMiniMessage = async function (responseObj) {
 
     let responseMessages = []
-    let responseMessage = '```'; 
-    for (let i =0; i < responseObj.length; i++){
-        if(responseMessage.length > 1700){
+    let responseMessage = '```';
+    for (let i = 0; i < responseObj.length; i++) {
+        if (responseMessage.length > 1700) {
             responseMessages.push(responseMessage + '\n```');
             responseMessage = '```';
         }
@@ -75,53 +75,131 @@ exports.createLiveMiniMessage = async function(responseObj){
 
         `
     }
-    responseMessages.push(responseMessage+ '\n```');
+    responseMessages.push(responseMessage + '\n```');
 
 
     return responseMessages;
 }
 
-exports.createAircraftPerformanceMessage = async function(matchedAircraft){
+exports.createAircraftPerformanceMessage = async function (matchedAircraft) {
     //console.log(matchedAircraft);
-    if(matchedAircraft['matched']){
+    if (matchedAircraft['matched']) {
         var aircraftResponse = new Discord.MessageEmbed()
-        .setTitle(`Aircraft Performance Spec of ${matchedAircraft['result']['Airplane']}`)
-        .addFields(
-            {name: 'MTOW', value: matchedAircraft['result']["MTOW"], inline: true},
-            {name: 'MLW', value: matchedAircraft['result']["MLW"], inline: true}
-        )
-        .addField('Range', matchedAircraft['result']["Typical Range"],true)
-        .addField('Service Ceiling', matchedAircraft['result']["Ceiling"],true)
-        .addFields(
-            {name: 'Climb To 5000ft', value: matchedAircraft['result']["Climb to 5000ft"], inline:true},
-            {name: 'Climb To 15000ft', value: matchedAircraft['result']["Climb to 15000ft"], inline:true},
-            {name: 'Climb To 24000ft', value: matchedAircraft['result']["Climb to 24000ft"], inline:true},
-            {name: 'Mach Climb', value: matchedAircraft['result']["Mach Climb"], inline:true},
-            {name: 'Cruise Speed', value: matchedAircraft['result']["Cruise Speed"], inline:true},
-            {name: 'Descent to 24000ft', value: matchedAircraft['result']["Descend to 24000ft"], inline:true},
-            {name: 'Descent to 10000ft', value: matchedAircraft['result']["Descend to 10000ft"], inline:true},
-            {name: 'Approach / MCS speed', value: matchedAircraft['result']["Approach / MCS"], inline:true},
-            {name: 'Landing speed', value: matchedAircraft['result']["Landing"], inline:true},
-            {name: 'Flap Speeds', value: matchedAircraft['result']["Flaps at descend"]})
+            .setTitle(`Aircraft Performance Spec of ${matchedAircraft['result']['Airplane']}`)
+            .addFields(
+                { name: 'MTOW', value: matchedAircraft['result']["MTOW"], inline: true },
+                { name: 'MLW', value: matchedAircraft['result']["MLW"], inline: true }
+            )
+            .addField('Range', matchedAircraft['result']["Typical Range"], true)
+            .addField('Service Ceiling', matchedAircraft['result']["Ceiling"], true)
+            .addFields(
+                { name: 'Climb To 5000ft', value: matchedAircraft['result']["Climb to 5000ft"], inline: true },
+                { name: 'Climb To 15000ft', value: matchedAircraft['result']["Climb to 15000ft"], inline: true },
+                { name: 'Climb To 24000ft', value: matchedAircraft['result']["Climb to 24000ft"], inline: true },
+                { name: 'Mach Climb', value: matchedAircraft['result']["Mach Climb"], inline: true },
+                { name: 'Cruise Speed', value: matchedAircraft['result']["Cruise Speed"], inline: true },
+                { name: 'Descent to 24000ft', value: matchedAircraft['result']["Descend to 24000ft"], inline: true },
+                { name: 'Descent to 10000ft', value: matchedAircraft['result']["Descend to 10000ft"], inline: true },
+                { name: 'Approach / MCS speed', value: matchedAircraft['result']["Approach / MCS"], inline: true },
+                { name: 'Landing speed', value: matchedAircraft['result']["Landing"], inline: true },
+                { name: 'Flap Speeds', value: matchedAircraft['result']["Flaps at descend"] })
 
-    }else{
+    } else {
         var aircraftResponse = '```\nApologies! I was not able to find the aircraft you specified. You may try one from this list: \n';
         let leftBase = true;
         var spaceChar = ' ';
         //console.log(matchedAircraft['result']);
-        for(let i = 0; i< matchedAircraft['result'].length; i++){
-            if(leftBase){
-                aircraftResponse += (matchedAircraft['result'][i] + spaceChar.repeat(50-matchedAircraft['result'][i].length));
+        for (let i = 0; i < matchedAircraft['result'].length; i++) {
+            if (leftBase) {
+                aircraftResponse += (matchedAircraft['result'][i] + spaceChar.repeat(50 - matchedAircraft['result'][i].length));
                 leftBase = false
-            }else{
+            } else {
                 aircraftResponse += matchedAircraft['result'][i] + '\n';
                 leftBase = true;
             }
-            
+
         }
         aircraftResponse += '\n```';
 
     }
-   
-return aircraftResponse;
+
+    return aircraftResponse;
+}
+
+exports.createATCMessage = async function (atc) {
+    let airports = Object.keys(atc);
+    let dataFields = [];
+    for (let i = 0; i < airports.length; i++) {
+        dataFields.push({
+            name: "Airport",
+            value: airports[i]
+        });
+        dataFields.push({
+            name: "Controllers",
+            value: atc[airports[i]]['controllers'],
+            inline: true
+        });
+        dataFields.push({
+            name: "Active Frequencies",
+            value: atc[airports[i]]['frequency'],
+            inline: true
+        });
+    }
+    var atcResponse = new Discord.MessageEmbed()
+        .setTitle(`Active ATC frequencies in the Expert Server`)
+        .addFields(dataFields)
+        .setAuthor("TheAircraftExperimentBot")
+    return atcResponse;
+}
+
+exports.createUserMessage = async function (userInfo) {
+
+    var hours = Math.floor(userInfo['flightTime'] / 60);
+    var minutes = userInfo['flightTime'] % 60;
+    let dataFields = [
+        {
+            name: "Grade",
+            value: userInfo['grade'],
+            inline: true
+        }, {
+            name: "XP",
+            value: userInfo['xp'],
+            inline: true
+        }, {
+            name: "Flight Time",
+            value: `${hours.toString()}:${minutes.toString()}`
+        }, {
+            name: "Lvl 1 Vios",
+            value: userInfo['violationCountByLevel']['level1'],
+            inline: true
+        }, {
+            name: "Lvl 2 Vios",
+            value: userInfo['violationCountByLevel']['level2'],
+            inline: true
+        }, {
+            name: "Lvl 3 Vios",
+            value: userInfo['violationCountByLevel']['level3'],
+            inline: true
+        }, {
+            name: "VA/VO",
+            value: userInfo['virtualOrganization']
+        }, {
+            name: "Total Flights",
+            value: userInfo['onlineFlights'],
+            inline: true
+        }, {
+            name: "Landings",
+            value: userInfo['landingCount'],
+            inline: true
+        }, {
+            name: "ATC Ops",
+            value: userInfo['atcOperations'],
+            inline: true
+        }
+    ];
+    var userResponse = new Discord.MessageEmbed()
+        .setTitle(`Userstats for ${userInfo['discourseUsername']}`)
+        .addFields(dataFields)
+        .setAuthor("TheAircraftExperimentBot")
+    return userResponse;
 }
