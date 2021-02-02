@@ -68,7 +68,7 @@ The IF Experiment
             "if_callsign": "xxxAK"
         When searching for pilots from your VA, the xxx will be substituted to their corresponding callsign numbers. So let them be
     
-    - Switch the value in discord_callsign to the format you use in your server. For example if the display name format in your discord server is `Cameron (MHVA010)`, then the value should look like `"discord_callsign" : "BAVAxxx"` .  When you have done this, it will know what your current flight callsign looks like and will be able to facilitate the use of multiple commands
+    - Switch the value in discord_callsign to the format you use in your server. For example if the display name format in your discord server is `Cameron (MHVA010)`, then the value should look like `"discord_callsign" : "MHVAxxx"` .  When you have done this, it will know what your current flight callsign looks like and will be able to facilitate the use of multiple commands
 
 - There are two more fields called `"link"` and `"learn"`: Inside these you can place multiple keywords and texts to correspond them. For example if you cc link is `https://community.infiniteflight.com/`, your data would look like this,
     {
