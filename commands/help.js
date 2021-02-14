@@ -7,7 +7,7 @@ module.exports = {
     name: "help",
     description: "Get the help message of the bot",
     async execute(message) {
-      message.channel.send('Visit https://github.com/sanketpandia/the-if-experiment/blob/main/readme.md for the list of all commands.');
+      message.channel.send('If you reached here after typing a command, then it probably does not exist. Visit https://github.com/sanketpandia/the-if-experiment/blob/main/readme.md for the list of all commands.');
       return;
     }
 }

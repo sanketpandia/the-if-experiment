@@ -27,3 +27,11 @@ exports.readAircraftDatastore = async function(data){
 exports.getChecklistFiles = async function(){
     return fs.readdirSync('./assets_contents/checklists');
 }
+exports.writeGuilds = async function(data){
+    fs.writeFileSync("./assets_contents/logs.txt", data);
+}
+exports.readGuilds = async function(data){
+   var data =fs.readFileSync("./assets_contents/logs.txt", 'utf-8');
+   console.log(data);
+   return data;
+}

@@ -101,3 +101,4 @@ The IF Experiment
 ### Now you may try out all the commands in the list. You won't be able to use cm_stats and pilot_stats. You should be good to go. 
 
 ## Airtable_Configs
+- Contact @sanketpandia on your IFC to setup your airtable if you don't have a developer in your VA who understands JSON. You will be able to fetch the pilot stats like rank, flight time, etc from your airtable.
