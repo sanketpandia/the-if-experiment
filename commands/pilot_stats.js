@@ -15,7 +15,7 @@ module.exports = {
             return;
         }
         if(!("pilot_stats_airtable_connection" in guildData)){
-            message.channel.send("I am sorry! Your server's career mode airtable connection is not available.\n**Contact your server admin regarding this error**")
+            message.channel.send("I am sorry! Your server's stats airtable connection is not available.\n**Contact your server admin regarding this error**")
             return;
         }
         if(!("callsign_patterns" in guildData) || !("discord_callsign" in guildData["callsign_patterns"])){

@@ -25,27 +25,29 @@ let botPrefix = botConfigs.botPrefix
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
-    // try {
-    //     let toSay = "The bot has been updated. Please do >update to re update your configs. Visit ***https://github.com/sanketpandia/the-if-experiment/blob/main/readme.md*** for new commands.\nSorry I can't control which channel this goes to. Make sure to delete this if this is in the #the-aircraft-experiment channel before running the update command. Multiple new commands have been added. "
-    //     client.guilds.cache.map((guild) => {
-    //       let found = 0
-    //       guild.channels.cache.map((c) => {
-    //         if (found === 0) {
-    //           if (c.type === "text") {
-    //             if (c.permissionsFor(client.user).has("VIEW_CHANNEL") === true) {
-    //               if (c.permissionsFor(client.user).has("SEND_MESSAGES") === true) {
-    //                 c.send(toSay);
-    //                 found = 1;
-    //               }
-    //             }
-    //           }
-    //         }
-    //       });
-    //     });
-    //   }
-    //   catch (err) {
-    //     console.log("Could not send message to a (few) guild(s)!");
-    //   }
+    const Guilds = client.guilds.cache.map(guild => guild.name);
+    fs.writeFileSync("./assets_contents/logs.txt", Guilds.join(','));
+    try {
+        let toSay = "The bot has been updated. Please do >update to re update your configs. Visit ***https://github.com/sanketpandia/the-if-experiment/blob/main/readme.md*** for new commands.\nSorry I can't control which channel this goes to. Make sure to delete this if this is in the #the-aircraft-experiment channel before running the update command. "
+        client.guilds.cache.map((guild) => {
+          let found = 0
+          guild.channels.cache.map((c) => {
+            if (found === 0) {
+              if (c.type === "text") {
+                if (c.permissionsFor(client.user).has("VIEW_CHANNEL") === true) {
+                  if (c.permissionsFor(client.user).has("SEND_MESSAGES") === true) {
+                    c.send(toSay);
+                    found = 1;
+                  }
+                }
+              }
+            }
+          });
+        });
+      }
+      catch (err) {
+        console.log("Could not send message to a (few) guild(s)!");
+      }
 })
 
 client.on('message', message => {

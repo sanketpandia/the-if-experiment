@@ -4,6 +4,7 @@ The IF Experiment
 * [Commands](#Commands)
 * [Installation](#Installation)
 * [Configure](#Configure)
+* [Airtable_Configs](#Airtable_Configs)
 
 ## Commands
 ## pilot_stats: 
@@ -97,5 +98,7 @@ The IF Experiment
  - Validate your text in `https://jsonlint.com/`. Copy the text and paste it in the text box there and click on 'Validate JSON'. 
  - If it says 'VALID JSON' in the results, then copy the text to the newly created channel (#the-aircraft-experiment) and paste it there
  - go to a public channel now and run the command '>update'. You should get a reply 'Configs updated successfully'.
-# Now you may try out all the commands in the list. You won't be able to use cm_stats and pilot_stats. You should be good to go. 
+### Now you may try out all the commands in the list. You won't be able to use cm_stats and pilot_stats. You should be good to go. 
 
+## Airtable_Configs
+- Contact @sanketpandia on your IFC to setup your airtable if you don't have a developer in your VA who understands JSON. You will be able to fetch the pilot stats like rank, flight time, etc from your airtable.

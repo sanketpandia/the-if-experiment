@@ -15,7 +15,9 @@ exports.getFlights = async function (ifApiKey, guildConfigs) {
     let configs = await masterConfigs.loadMasterConfigs();
     let sessionId = await getSession(ifApiKey, configs);
     let callsignPattern = guildConfigs['callsign_patterns']['if_callsign'];
-    callsignPattern = ('.*' + callsignPattern + '.*').replace('xxx', '\\d\\d\\d');
+    console.log('.*' + callsignPattern + '.*');
+    callsignPattern = ('.*' + callsignPattern + '.*').replace(/x/g, '\\d');
+    console.log(callsignPattern);
     var rxPattern = new RegExp(callsignPattern);
     let vaFlights = await getAllFlights(sessionId['id'], configs['IF_API_URL'], ifApiKey, rxPattern);
     for (let i = 0; i < vaFlights.length; i++) vaFlights[i]['route'] = await getFlightPlan(configs['IF_API_URL'], ifApiKey, vaFlights[i]['flightId']);

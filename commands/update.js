@@ -17,7 +17,7 @@ module.exports = {
             });
             //let channel = channels.find(channel => channel.name === "the-aircraft-experiment");
             let lastMessage;
-            await configChannel.messages.fetch({ limit: 1 }).then(messages => {
+            await configChannel.messages.fetch({ limit: 3 }).then(messages => {
                 lastMessage = messages.first().content;
 
             }).catch(console.error);
