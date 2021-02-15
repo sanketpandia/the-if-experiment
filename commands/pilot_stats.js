@@ -45,7 +45,7 @@ module.exports = {
             message.channel.send("Sorry your record could not be found in airtable!!");
             return;
         }
-        let responseMessage = await messageCreator.createCmStatsMessage(record, guildData["pilot_stats_airtable_connection"]["fields"],guildData["pilot_stats_airtable_connection"]["callsign_column_name"])
+        let responseMessage = await messageCreator.createPilotStatsMessage(record, guildData["pilot_stats_airtable_connection"]["fields"],guildData["pilot_stats_airtable_connection"]["callsign_column_name"])
         message.channel.send(responseMessage);
     }
 
