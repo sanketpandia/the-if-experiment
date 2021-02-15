@@ -64,3 +64,11 @@ exports.getLiveCallsign = async function(message, discordPattern, ifPattern){
     }).catch(console.log);
     return value
 }
+
+exports.validateJson = async function(jsonObj){
+    try{JSON.parse(jsonObj);
+    return true;}
+    catch(err){
+        return false;
+    }
+}
