@@ -3,7 +3,7 @@ const csvtojsonV2 = require("csvtojson");
 
 exports.getCallSign = async function getCallsign(message, pattern, callsignPrefix){
     var value = ""
-    pattern = pattern.replace("xxx", "(\\d\\d\\d)");
+    pattern = pattern.replace("^^^", "(\\d\\d\\d)");
     var rxPattern = new RegExp(pattern);
     //console.log(rxPattern);
     await message.guild.members.fetch(message.author.id).then(data => {
@@ -54,12 +54,12 @@ async function loadCSV(filename){
 }
 exports.getLiveCallsign = async function(message, discordPattern, ifPattern){
     var value = ""
-    let pattern = discordPattern.replace("xxx", "(\\d\\d\\d)");
+    let pattern = discordPattern.replace("^^^", "(\\d\\d\\d)");
     var rxPattern = new RegExp(pattern);
     //console.log(rxPattern);
     await message.guild.members.fetch(message.author.id).then(data => {
         var arr = rxPattern.exec(data.displayName);
-        var x= ifPattern.replace('xxx', arr[1]);
+        var x= ifPattern.replace('^^^', arr[1]);
         value = x;
     }).catch(console.log);
     return value
