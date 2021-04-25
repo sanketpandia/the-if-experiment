@@ -64,12 +64,12 @@ The IF Experiment
 ### Do not change the left side text (i.e. text before the column).
 - In callsign patterns replace the following:
     - Switch the value in if_callsign to the format of your VA. For example, if you are BAVA, switch it to
-            "if_callsign": "Speedbird xxxVA"
+            "if_callsign": "Speedbird ^^^VA"
         If you are from AFKLM, switch it to:
-            "if_callsign": "xxxAK"
-        When searching for pilots from your VA, the xxx will be substituted to their corresponding callsign numbers. So let them be
+            "if_callsign": ^^^AK"
+        When searching for pilots from your VA, the ^^^ will be substituted to their corresponding callsign numbers. So let them be
     
-    - Switch the value in discord_callsign to the format you use in your server. For example if the display name format in your discord server is `Cameron (MHVA010)`, then the value should look like `"discord_callsign" : "MHVAxxx"` .  When you have done this, it will know what your current flight callsign looks like and will be able to facilitate the use of multiple commands
+    - Switch the value in discord_callsign to the format you use in your server. For example if the display name format in your discord server is `Cameron (MHVA010)`, then the value should look like `"discord_callsign" : "MHVA^^^"` .  When you have done this, it will know what your current flight callsign looks like and will be able to facilitate the use of multiple commands
 
 - There are two more fields called `"link"` and `"learn"`: Inside these you can place multiple keywords and texts to correspond them. For example if you cc link is `https://community.infiniteflight.com/`, your data would look like this,
     {
@@ -81,8 +81,8 @@ The IF Experiment
     ```
     {
     "callsign_patterns": {
-        "if_callsign": "Speedbird xxxVA",
-        "discord_callsign": "BAVAxxx"
+        "if_callsign": "Speedbird ^^^VA",
+        "discord_callsign": "BAVA^^^"
     },
     "learn": {
         "ifc": "https://community.infiniteflight.com",
