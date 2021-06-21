@@ -113,27 +113,39 @@ exports.createLiveMiniMessage = async function (responseObj) {
 
 exports.createAircraftPerformanceMessage = async function (matchedAircraft) {
     //console.log(matchedAircraft);
+    let dataFields = []
     if (matchedAircraft['matched']) {
+        let objKeys = Object.keys(matchedAircraft['result'])
+        objKeys.forEach(key => {
+            
+            if(matchedAircraft['result'][key] !== '') dataFields.push({
+            name: key,
+            value: matchedAircraft['result'][key],
+            inline: true
+           })
+
+        });
+        console.log(dataFields);
         var aircraftResponse = new Discord.MessageEmbed()
             .setTitle(`Aircraft Performance Spec of ${matchedAircraft['result']['Airplane']}`)
-            .addFields(
-                { name: 'MTOW', value: matchedAircraft['result']["MTOW"], inline: true },
-                { name: 'MLW', value: matchedAircraft['result']["MLW"], inline: true }
-            )
-            .addField('Range', matchedAircraft['result']["Typical Range"], true)
-            .addField('Service Ceiling', matchedAircraft['result']["Ceiling"], true)
-            .addFields(
-                { name: 'Climb To 5000ft', value: matchedAircraft['result']["Climb to 5000ft"], inline: true },
-                { name: 'Climb To 15000ft', value: matchedAircraft['result']["Climb to 15000ft"], inline: true },
-                { name: 'Climb To 24000ft', value: matchedAircraft['result']["Climb to 24000ft"], inline: true },
-                { name: 'Mach Climb', value: matchedAircraft['result']["Mach Climb"], inline: true },
-                { name: 'Cruise Speed', value: matchedAircraft['result']["Cruise Speed"], inline: true },
-                { name: 'Descent to 24000ft', value: matchedAircraft['result']["Descend to 24000ft"], inline: true },
-                { name: 'Descent to 10000ft', value: matchedAircraft['result']["Descend to 10000ft"], inline: true },
-                { name: 'Approach / MCS speed', value: matchedAircraft['result']["Approach / MCS"], inline: true },
-                { name: 'Landing speed', value: matchedAircraft['result']["Landing"], inline: true },
-                { name: 'Flap Speeds', value: matchedAircraft['result']["Flaps at descend"] })
-
+            .addFields(dataFields)
+           // .addFields(
+             //   { name: 'MTOW', value: matchedAircraft['result']["MTOW"], inline: true },
+               // { name: 'MLW', value: matchedAircraft['result']["MLW"], inline: true }
+            //)
+            //.addField('Range', matchedAircraft['result']["Typical Range"], true)
+            //.addField('Service Ceiling', matchedAircraft['result']["Ceiling"], true)
+            //.addFields(
+              //  { name: 'Climb To 5000ft', value: matchedAircraft['result']["Climb to 5000ft"], inline: true },
+               // { name: 'Climb To 15000ft', value: matchedAircraft['result']["Climb to 15000ft"], inline: true },
+                //{ name: 'Climb To 24000ft', value: matchedAircraft['result']["Climb to 24000ft"], inline: true },
+                //{ name: 'Mach Climb', value: matchedAircraft['result']["Mach Climb"], inline: true },
+               // { name: 'Cruise Speed', value: matchedAircraft['result']["Cruise speed"], inline: true },
+               // { name: 'Descent to 24000ft', value: matchedAircraft['result']["Descend to 24000ft"], inline: true },
+               // { name: 'Descent to 10000ft', value: matchedAircraft['result']["Descend to 10000ft"], inline: true },
+                //{ name: 'Approach / MCS speed', value: matchedAircraft['result']["Approach / MCS"], inline: true },
+                //{ name: 'Landing speed', value: matchedAircraft['result']["Landing"], inline: true },
+                //{ name: 'Flap Speeds', value: matchedAircraft['result']["Flaps at descend"] })
     } else {
         var aircraftResponse = '```\nApologies! I was not able to find the aircraft you specified. You may try one from this list: \n';
         let leftBase = true;
