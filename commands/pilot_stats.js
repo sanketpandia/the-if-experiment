@@ -35,6 +35,7 @@ module.exports = {
             message.channel.send("Unable to fetch data from airtable");
             return;
         }
+    
         let callsign = await utils.getCallSign(message, guildData["callsign_patterns"]["discord_callsign"], guildData["callsign_patterns"]["callsign_prefix_airtable"]);
         if(callsign === ""){
             message.channel.send("Your callsign couldn't be extracted from your Discord Display Name! Make sure the pattern is correct");

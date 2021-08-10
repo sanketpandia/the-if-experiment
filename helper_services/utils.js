@@ -18,6 +18,7 @@ exports.filterRecordByCallsign = async function(records, callsignField, callsign
     callsign = callsign.replace(' ', '').toUpperCase().normalize();
     let returnObj = {}
     await records.forEach(element => {
+        console.log(element);
         //console.log(element);
         let callsign_i = element[callsignField];
         callsign_i = callsign_i.replace(' ', '').toUpperCase().normalize();

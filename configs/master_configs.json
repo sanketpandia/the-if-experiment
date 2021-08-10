@@ -1,5 +1,5 @@
 {
     "IF_API_URL": "https://api.infiniteflight.com/public/v2",
-    "IF_FLIGHT_DATA_FILES": ["20.02.csv", "20.03.csv", "21.04.csv"],
+    "IF_FLIGHT_DATA_FILES": ["21.04.csv"],
     "botPrefix": ">"
 }

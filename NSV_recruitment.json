@@ -1,0 +1,47 @@
+{
+    "callsign_patterns": {
+        "if_callsign": "Air Europa ^^^VA",
+        "discord_callsign": "UXVA^^^",
+        "callsign_prefix_airtable": "UXVA"
+    },
+    "learn": {
+        "ifc": "https://community.infiniteflight.com",
+        "if": "https://infiniteflight.com"
+    },
+    "link": {
+        "ifatc": "https://ifatc.org",
+        "if": "https://infiniteflight.com"
+    },
+    "pilot_stats_airtable_connection": {
+        "base_id": "appmUmuYCcD3qMltB",
+        "table_name": "Pilots",
+        "callsign_column_name": "Callsign",
+        "api_key": "key17m8JTY3UXEuCX",
+        "fields": [{
+                "name": "Name",
+                "inline": "true",
+                "airtableColumnName": "Name"
+            },
+            {
+                "name": "Hours Flown",
+                "type": "time",
+                "inline": "true",
+                "airtableColumnName": "Hours Flown Std."
+            },
+            {
+                "name": "Rank",
+                "inline": "true",
+                "airtableColumnName": "Rank"
+            },
+            {
+                "name": "Date Joined",
+                "inline": "true",
+                "airtableColumnName": "Date Joined"
+            },{
+                "name": "Total Flights",
+                "inline": "true",
+                "airtableColumnName": "Total Flights"
+            }
+        ]
+    }
+}
