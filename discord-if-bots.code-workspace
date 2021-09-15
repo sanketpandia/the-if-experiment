@@ -4,7 +4,13 @@
 			"path": "."
 		},
 		{
+			"path": "../afklm-bot-v2"
+		},
+		{
 			"path": "../the-afklm-experiment"
+		},
+		{
+			"path": "../afklm_routes_sync"
 		}
 	],
 	"settings": {}
