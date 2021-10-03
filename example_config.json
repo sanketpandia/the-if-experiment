@@ -1,7 +1,6 @@
 {
     "callsign_patterns": {
         "if_callsign": "Indonesia xxxVA",
-        "if_callsign": "Supergreen xxxGG",
         "discord_callsign": "GVGxxx"
     },
     "learn": {
