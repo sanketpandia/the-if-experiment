@@ -61,7 +61,7 @@ The IF Experiment
 - In your discord server, create a channel (preferably Private) by the name of 'the-aircraft-experiment', and allow the bot access to the channel
 - Open a notepad or any other text editor in your PC.
 - Paste the contents that you copied from the link above.
-### Do not change the left side text (i.e. text before the column).
+### Do not change the left side text (i.e. text before the colon).
 - In callsign patterns replace the following:
     - Switch the value in if_callsign to the format of your VA. For example, if you are BAVA, switch it to
             "if_callsign": "Speedbird ^^^VA"
