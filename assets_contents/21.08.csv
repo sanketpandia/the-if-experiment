@@ -1,0 +1,837 @@
+AircraftId,AircraftName,LiveryId,LiveryName
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,1d7dff42-46a5-4c47-a46c-bd39ab9cea8d,Generic
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,291d9656-eb0a-4608-a8dc-268ac031a448,Infinite Flight - 2015
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,20bcdb6b-854f-44ee-addc-b30fb5acfe05,ACJ Livery 1
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,3390fa9c-61f7-4c10-97c4-d0f25a526dfd,ACJ Livery 2
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,b6481163-3cbf-4212-9616-0bf99b6ac3c3,ACJ Livery 3
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,268bcb25-0236-45e7-bc24-f5dd596381a7,ACJ Livery 4
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,299d18dd-b248-488f-b6af-c7ef8cd426fd,Air France
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,6cf01d32-3c56-4007-a084-7de26b7dbe52,British Airways
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,d848d1bb-21fc-438a-b718-92b20b7f3e74,Avianca
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,c35e008f-dc07-43d6-ac07-515ea9a39271,Tarom
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,2c7a2ad0-3374-4d7b-b89f-2e9768bb979d,Mexicana
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,1ca83faa-b6c0-4fc1-84d5-6b493b8dff45,Frontier
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,867677a9-5b49-4f29-96b9-ff297cc0b22d,Airbus - Old
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,586f115e-af53-4e14-87a4-01691a495828,Airbus - New
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,06cb64e7-eaa0-4137-8542-1c95ba116fe5,Infinite Flight - 2018
+982dd974-5be7-4369-90c6-bd92863632ba,Airbus A318,2ad3f632-b9ca-4510-b12f-3047be8383ef,ACJ Livery 5
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,91f88a09-33e4-40c8-98d7-aba1ddd53f5e,Generic
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,b670102a-ab45-4078-a300-ec76828322be,Air Berlin
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,eb2a5264-545f-474c-91a2-2e4b46665060,Northwest Airlines
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,06ea670c-e687-4602-9f8a-1fbd298c47f9,Air Canada
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,dfafc610-fbb5-45f3-8c50-c732bd59a9c9,Air China
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,e9b2f137-23ce-45f6-9d46-8d2328c2b347,Air France
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,08030201-6079-4380-80b4-1515e69de7c2,British Airways
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ee772985-6f48-43cb-a7a6-fce78b58eabb,Brussels Airlines
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,a6c9ee9b-2ce6-493d-9490-18c77e6a8046,Delta Air Lines
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,61c64d54-c153-406a-9132-d91ce7c7eb2f,EasyJet
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,75b20706-c42f-4547-bf0e-cea29f872c3c,LAN
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,316f0a45-b77c-4ec7-a007-2b01e0c42a9b,Qatar Airways
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ca63ebb5-875a-43fa-9c14-7c742fc17076,TigerAir
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,90da1e36-1102-4db7-b589-ee35ffa88820,S7
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,ad8472e4-2881-4160-a188-e382eae4d771,Tunisair
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,234cc680-63a9-4430-a441-224bdd90aa20,Volaris
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,daa23150-ef25-427e-8d76-6e8fa008c873,Cebu Pacific
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,bc9e7135-37d4-43f1-a435-9fa8ff6a6874,Air Canada Rouge
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,6d1982b3-36c6-406f-a5bc-2f6c5a581ba4,Croatia Airlines
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,c9a745c6-4b54-4b48-9ed2-c960bc19e520,Saudia
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,331b69b2-0951-48ee-8235-29bcbb6940de,SilkAir
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,0ccffb5e-1c03-46ff-8757-df3835a2b67c,Swiss
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,8a0a29ed-55b3-47eb-82c2-d1c30c5effe3,TAM
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,c4957753-e41b-492f-9f99-0d64be573957,Azerbaijan Airlines
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,9f43e353-f3f3-40a7-a0d4-e2f5302b596e,Eurowings
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,743b07cf-ecbd-44de-b153-d782bfe16999,Lufthansa
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,d0074d2e-3394-4775-91d2-7bd634aebdcd,LATAM
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,e2f386cb-b7b8-487e-aa7f-909bfe37eb28,TAP
+2c2f162e-a7d9-4ebd-baf4-859aed36165a,Airbus A319,8573e814-dcf4-490c-95d9-a092bf3e8365,SAS - Retro
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,99430457-aa53-407e-adbc-bfba6fc30d2c,Generic
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,7fa8785a-ccb3-4448-86fe-b4c01cf0ffe1,Aeroflot
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,96a61185-ef51-4b64-ae32-437feb984504,Air Asia
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,7ae9316c-1e45-42b9-b3a2-d551602e21db,Batik Air
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,aa8405c7-0b6f-44c8-8427-32b0f75148a8,IndiGo
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,124af2c6-427f-4d51-bbdf-6c3f1e19cf60,JetBlue
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,912ccf1d-558d-4870-b616-3ce29e8cfa1a,Libyan Airlines
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,71afacfd-db50-4e1e-95f2-4b88393b5217,Air New Zealand
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,d5eb26d0-46f3-458f-aa8d-0b212c4338b3,Lufthansa
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,b6ec56bb-4bc1-4af4-87a1-8afb2bee0a7f,SAS
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,50d6d601-2aa2-4a0c-a8ed-46f74eb3358e,Spirit
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,cb98b7d4-ce2b-4993-97df-83e2dddae6af,United Airlines
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,dfa9602e-153f-464c-957a-db2f2946b3cf,US Airways
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,81ee5a23-8328-4175-ad21-d04d4ac4cacf,Virgin America
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,c08a973e-765f-499e-a881-34f077e3962c,Air France
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,9af3b872-384d-4c35-bbe7-c0e2f8bba721,American Airlines
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,dad1c4c4-f580-4690-a244-e11085952d03,JetStar
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,cd1dadae-70a7-45f4-80b0-c166223ed1f3,Wizz Air
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,8944b457-4636-4359-b72b-e9f9999a06e6,EasyJet
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,efeaa8c7-f68c-4e56-9c76-d99434147105,Vueling
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,4f3bbc44-2c35-4ddb-b560-9c84978ef7f8,TAP
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,3fe3e367-242d-455e-9872-75d172e93f53,DutchBird
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,43511b25-f043-4bc4-b0e5-48ed43e2f83e,Frontier - Alberta and Clipper
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,a3e1de30-6a73-4c09-b86b-a432dc1b5631,Frontier - Colorado
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,4a8b4ebc-6417-4290-b231-f8e18e63cf38,Frontier - Hugh the Manatee
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,43db2679-9bc2-4a3d-bc7b-8ab0a6a0a743,Frontier - Ozzy
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,4a77f866-db3f-4451-b493-86d292e89300,Frontier - Sheldon
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,e1af9e1b-26a0-49ac-bb49-761e4fd5000f,Alaska Airlines
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,be20e70b-87f3-4b6c-bd23-c6ddd1651962,WOW Air
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,09893b8b-eef1-4055-976e-9ff14d934a11,QantasLink
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,83182ed7-3598-44fe-bba4-5301fd3850b9,British Airways
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,e44843cc-dd66-473c-b40b-f0a45380e5f9,LATAM
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,1a7de53e-bdb6-40e3-b2ec-193555d01b46,Peach Aviation
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,4f115fe1-7114-462a-aa91-74701cad6f18,Allegiant Air
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,7dded3a7-215f-441b-886d-416672de2167,Aer Lingus
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,c1c50f20-1475-4df3-81f9-ab224b807701,Aegean Airlines
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,818dfcf1-a4af-489c-902c-d8fd9f720e22,Aer Lingus 2019
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,f9474e48-f651-4d39-ab5e-4806339afd5c,Avianca
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,29947d52-a32a-4675-b04d-878fa2ac5476,Azul
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,1c2ec274-9666-4bb8-a5b0-d5e32bfa3e89,VivaAerobus
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,e82466c3-a7cb-4ab4-86cf-71d7463b535f,Lufthansa 2018
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,c8cd650a-c96b-40ba-a8d5-6fa28a4fd1cc,Eurowings
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,6d929f07-b853-4555-b584-9ff88bf809a3,EasyJet 2015
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,a6e5e0bf-2f0f-49ac-8076-5843d1ea68e7,Delta Air Lines
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,dcdcfedc-8c9d-408b-9f5d-2f0632eeb2c8,JetSMART
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,4b334193-8890-4df0-b91c-a4357f81fd3a,Sky Airlines
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,4271e71d-25e7-43d8-a6e7-79c2c3359bdd,Air India
+a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3,Airbus A320,1b8bef4d-85d4-45f8-8a79-16b359fcebfa,Air Zimbabwe
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,09ed4e33-335c-4385-a8d6-fa076f68459d,Generic
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,f36ceb00-cd6c-46a9-9dc7-30721668a11f,Air India
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,9627685d-e466-4645-806c-4366d43d78f6,Aer Lingus
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,9576b574-f098-4875-9f8a-5e3a21632fb2,Alitalia
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,8ce5dac3-bea5-4b09-957b-7e8df7ce40d1,American Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,fff01f28-c366-446d-a969-5e5ee267f5f6,ANA
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,98ae73a4-faf5-4e91-b27a-c0ce45fc26a2,Asiana Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,2a5ebc6c-8246-4176-a2b1-5399dd1537de,Austrian Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,700c1fca-c1a8-4efd-9a73-2773aa3ae46d,Dragonair
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,3742625a-606f-4485-9572-85d927abc607,Etihad
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,6a895397-9918-4e5f-b8a5-ada34263480d,Etihad - 2015
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,f8a4e8cd-5ba5-45b7-884d-3ba8a2d10d6b,EVA Air
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,ecbb8067-e81f-4815-9039-7a68ae8ca196,Swiss
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,8b39cf0a-3c39-4894-9949-709e28ae3c1f,Finnair
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,9ee16a17-5d79-4f36-954d-e0d01d840c96,Gulf Air
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,4bb35051-5911-4237-a57b-ede876767b8c,Iberia
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,80b25154-18b8-4811-af25-16a9810f0e55,Middle East Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,5b07dffd-9f93-42af-8f48-547512c3efea,Philippines Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,cc6493fb-1cd7-481e-9c84-11c2f761e746,Thomas Cook
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,26528589-9e49-4038-b79e-8ec583c59166,Turkish Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,ddb6981c-1c63-4e11-a297-59cf70e81790,VietJet Air
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,2bc6b67f-e8af-4ac7-b2aa-54a1113d22eb,Vietnam Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,4e920d0f-a5c7-4e9c-a936-d6fa4d671a0d,Delta Air Lines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,c26dca34-d4e7-428e-8bf2-5c2e09021628,Frontier - Virginia the Wolf
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,80fc182b-5e4c-4fd7-9103-7221a72091b5,JetBlue
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,061ee4be-7a62-4eee-8096-da4a0941ba0b,Spirit Airlines
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,d2b92cc1-7f87-4063-b215-ffb97eebf12a,British Airways
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,66666808-5c81-441b-89f1-d132889b2041,Air Canada
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,bd5ad51e-a753-4203-8eef-502da9f431e5,Wizz Air
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,a705c138-2ddd-4cf2-8f67-6c7f742eb09c,Cebu Pacific
+d7434d84-555a-4d9b-93a7-53c77cf846ea,Airbus A321,38ad8ab5-57fd-4e9b-9367-8792aebc15b6,Qatar Airways
+2b1249c8-11d8-4fa6-9aae-a99eff451225,C-17,d9d45dc3-c639-4d00-97aa-ad3726602129,Generic
+0a3edb21-d515-4619-8392-aef51b952ac9,F18,47445efa-42da-4779-b01e-7608628d5ba3,Generic
+e92bc6db-a9e6-4137-a93c-a7423715b799,Cirrus SR22 GTS,25e31904-a622-41b1-857a-4a1046cefcde,Generic
+e92bc6db-a9e6-4137-a93c-a7423715b799,Cirrus SR22 GTS,331c6fc3-3cca-4d3a-8764-ab3b37b688fe,Private
+e92bc6db-a9e6-4137-a93c-a7423715b799,Cirrus SR22 GTS,176626af-4edf-4644-b653-6c52e8c759be,Gray and White
+e92bc6db-a9e6-4137-a93c-a7423715b799,Cirrus SR22 GTS,fa5be4ac-fd44-4aac-8130-3b989a36e875,Red and White
+e92bc6db-a9e6-4137-a93c-a7423715b799,Cirrus SR22 GTS,debddb41-f3ac-4d73-8419-de887cb355d1,Brown and White
+7bd8096f-8eae-47b9-8e1a-38dabd2c59c4,F-16,45b2b723-4f9c-47c6-9353-96275c78dce3,Generic
+9769c825-0f89-4faf-abb1-9dd473321ede,P-38,b2beefc9-315c-4193-a5aa-d05c5cb99eab,Miss Virginia
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,9c0ce19f-00b0-44ea-938d-8c70e4c48c7c,Air France
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,6cd83a20-b414-4250-bbff-fdc413bd1545,Asiana Airlines
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,62c77355-f439-485f-b8dd-2789a3750fed,Korean Air
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,5b45864c-d8e4-405a-95fc-6dc4332540c2,Qantas
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,b5f99762-08fa-473f-8877-27361bd9e91e,Qatar Airways
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,19f00139-e7e5-46eb-ad77-d89539aebd24,Singapore Airlines
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,0b6dd5b5-4a89-42d1-86a6-bd4676f14751,Lufthansa
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,7684ff31-9049-434c-988c-34eaf5f1bd70,Emirates
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,0cb88e15-2848-4510-8f3f-3046ea3b22fa,British Airways
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,acaad8d8-1d47-413b-a911-0704d73c2ee4,Thai Airways
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,5d6b236c-ce71-4180-80a7-807b9372670e,Malaysia Airlines
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,2b5609fa-0d67-48c4-bc35-82db3ffce594,Etihad
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,58f173ca-79c5-4642-8acd-1a89295ed417,Transaero
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,a9b4ca42-c2ee-4587-be37-a89f2e5ebd0a,Air Austral
+f11ed126-bce8-46ef-9265-69191c354575,Airbus A380,793768c8-82f1-4562-be0a-31c7051a8aae,Generic
+f580ad00-b7c7-4813-9dbc-c4a8c655cc46,Airbus A330-200F,c9783f7c-1bd1-497d-b220-329b41abf78c,UPS
+f580ad00-b7c7-4813-9dbc-c4a8c655cc46,Airbus A330-200F,c2a3e267-112f-4e4e-86fb-1ed94200467e,Turkish Airlines Cargo
+f580ad00-b7c7-4813-9dbc-c4a8c655cc46,Airbus A330-200F,fb9d200c-563d-4e37-878a-849fc865d6bd,Etihad Cargo
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,39c37dae-7aa8-4e95-a0fa-85c1391b0598,Lufthansa
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,6bb2a9d2-2219-4251-8569-a8c8006d9140,Cathay Pacific
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,b6621603-2884-4611-b105-1a3db20379b4,Swiss International Air Lines
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,6f0305f2-b66a-4636-898a-82b72dfc2331,Delta Air Lines
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,1f07d7de-e733-4287-a44d-021e3ba29f8f,Air Canada
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,1ae8c721-b906-4a34-8dba-a81106258047,SAS
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,e6b8145b-adf5-4ff1-933a-04d47a64f8f2,Aeroflot
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,a79719a6-ff60-4a83-bf21-3a29f54dcdea,China Airlines
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,88cd6503-d375-493e-87e3-32fa4395b93b,EgyptAir
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,e8b7ddc6-69da-4874-a486-41edf278635f,Generic
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,800301a6-9aad-4e93-b8db-850e97b04f19,Singapore Airlines
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,398ad663-c07e-4fa6-922a-c934e00ccad0,Thai International Airways
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,a924a737-057a-4f67-8ace-049913727e29,Srilankan Airlines
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,3c0c4e63-5053-45e3-b0d9-4e2007b6a34e,South African Airways
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,9394adec-917a-45b0-8166-622a2bac4f86,KLM
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,1de367d5-10b9-46f4-8b72-e80a6256123b,Aer Lingus
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,92daac17-191e-4527-b55b-3417334f2a57,Qantas
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,b36252a6-8a58-4c10-9fb6-472c86128309,Turkish Airlines
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,4863822c-164f-4ecb-bcd2-dcab9d4e9f9c,China Southern
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,27873a61-24e1-4795-a0c7-a0d0fc206b3b,Virgin Atlantic
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,1ec997e8-4121-44ab-b184-2f1a126ca29b,Brussels Airlines
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,ded14d7e-7c62-41d8-ae97-a0835cad3b46,Jet Airways
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,d696adfd-accc-4f19-a1ca-3c28a22b25c6,Air China
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,a5193e82-046d-42bc-835d-06cdac3e1425,Cebu Pacific
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,e49f9d84-a13d-4282-86e3-0e64010f6d18,Hainan Airlines
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,15513d15-e5d1-43f3-b1d8-71c6412c0ea5,Iberia
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,86485f45-20f5-47d9-8ddc-ae2cdab697b7,Oman Air
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,49af4dcb-12df-4be3-a56f-41675e3aabd1,RwandAir
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,69cae48f-0a20-4512-bcfb-e44e5d6dfdd6,Avianca
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,15accd92-3525-4d20-b629-75b79cffece5,Air Transat
+6af2c9f8-abd8-4872-a9bc-4e79fd84fe77,Airbus A330-300,d40eb3f8-4073-43b1-9a38-428828877660,Edelweiss Air
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,46688f70-ce7c-4a7f-b921-e1dd14219f15,Lufthansa
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,1d146aef-e292-45f5-9785-3d8975d396c3,Thai Airways
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,316acb70-b926-4dd2-9d6f-8ce7c5c6b6f9,South African Airways
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,718541c4-6e1c-4c8c-9c75-3a24836b6781,Virgin Atlantic
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,e20441bd-3714-4656-b931-b28387224653,Airbus
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,a160b70f-4375-4719-81fd-850a3cdde8dd,Virgin Atlantic - Old
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,62f4b3ad-536e-4d16-a581-312ca76f2354,Etihad - Formula One
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,0d9917d1-3237-47ae-b541-accc7104aa77,Qatar Airways
+8b00fd70-d825-4c30-a52e-3a27a3a1a157,Airbus A340-600,51653b24-996b-421b-9ab5-0b9fab1c0d35,Generic
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,5e9c9c43-e0bd-4a2c-8b2e-1bf37275c864,175th Wing Warfield ANG
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,5100dbb8-2e8f-439e-99d9-3682176334ff,188th Wing Fort Smith ANG
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,6a620115-6a36-480c-a006-30f7ecb2c35a,25th FS Osan AB
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,e68b5101-a8e1-43da-9792-5481faa4a3f9,303rd FS Whiteman AFB
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,ef8b0325-c962-4ec9-b5fd-5d4f2f234e01,343rd Wing Eielson AFB
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,9f91e172-7f1e-4105-8cdf-69cca25667f9,354th FS Davis-Mothan AFB
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,92745d61-6b14-4246-83be-7959be2a29ff,66th WS Nellis AFB
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,a0ac5c37-54b0-416c-a022-9894f219cf22,75th FS Moody AFB
+81d9ccd4-9c03-493a-811e-8fad3e57bd05,A-10,5fd0dae5-b179-415d-82da-6cab3fde8a11,Arctic Camo
+dac4bb8e-6bb3-480a-a5a5-191d7d351e47,ERJ-170,c9a4f454-bb98-4b25-ad09-bc0df3ad16b2,United
+dac4bb8e-6bb3-480a-a5a5-191d7d351e47,ERJ-170,51dd05b8-85c7-496b-96f6-649a056ff976,LOT Polish Airlines
+dac4bb8e-6bb3-480a-a5a5-191d7d351e47,ERJ-170,6421dce4-377f-4ba7-97ea-d838aff83813,Delta Air Lines
+dac4bb8e-6bb3-480a-a5a5-191d7d351e47,ERJ-170,aec395eb-e87d-4bf3-81c9-163fb932b712,Generic
+af055734-aaed-44ad-a2d0-5b9046f29d0d,ERJ-175,211c61be-3e52-4a19-864b-1eb68348703c,US Airways
+af055734-aaed-44ad-a2d0-5b9046f29d0d,ERJ-175,09a66cfb-4e3c-4aa8-8426-414c4643c448,Northwest Airlines
+af055734-aaed-44ad-a2d0-5b9046f29d0d,ERJ-175,490646cd-ae2b-4771-8086-507785d0f640,Air Canada
+af055734-aaed-44ad-a2d0-5b9046f29d0d,ERJ-175,f4614fc0-0128-4a6e-8226-d5f53f74f456,Generic
+7de22dcf-91dd-4932-b225-533298873df2,ERJ-190,97b1b5ef-0db9-4bca-9bb5-5970ebbb83b1,JetBlue
+7de22dcf-91dd-4932-b225-533298873df2,ERJ-190,609a665a-1d0e-4e3e-9af8-19042591d2f7,KLM
+7de22dcf-91dd-4932-b225-533298873df2,ERJ-190,9921372e-6faa-40d9-9dfb-6580bee43022,British Airways
+7de22dcf-91dd-4932-b225-533298873df2,ERJ-190,de1b1017-29bc-47c4-9a01-d904737ddeea,Generic
+dd2f3f8e-db6e-4fd5-ae7d-af8b9289c755,ERJ-195,503c0860-3784-4fde-aedc-6abb8352c967,Azul
+dd2f3f8e-db6e-4fd5-ae7d-af8b9289c755,ERJ-195,e3519f25-d3ef-4688-a658-e4c326a593a9,Air Europa
+dd2f3f8e-db6e-4fd5-ae7d-af8b9289c755,ERJ-195,95e7643c-0d0a-4621-8d6d-cf547cfc0263,Flybe
+dd2f3f8e-db6e-4fd5-ae7d-af8b9289c755,ERJ-195,9c771cf8-8b25-4097-8091-5dbd639a202d,Generic
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,00782c6a-0681-450c-826e-6659e7da4032,American Airlines - Old
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,bb5217fd-9505-4b1b-92e9-adb8be56ab04,KLM
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,778a1b8a-35ac-43a3-8556-2d7bf78c062a,Air Canada
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,feec78d6-5eb5-4569-810c-89d35eddf246,British Airways
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,f19e1cb5-b7e4-4390-bece-2edb25037612,Delta Air Lines
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,09f74d34-d35d-428a-bc55-68a83e7b3a68,Hawaiian Airlines
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,f2e25c0d-d7b1-4559-9c35-bc3f097a7428,Qantas
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,a1bd7197-9180-41f1-b606-426a89fffd5e,LAN
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,831564a0-6e1a-459e-92b1-399975f21cd6,United Continental
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,2aa5222d-a48a-4b84-9b5b-321dee653ca0,Air France
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,02fbbdd9-b2d3-4d36-ac77-3944ae9717cf,United Airlines
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,8822658b-a663-4056-88d9-fc1d8cb3b924,Thomas Cook
+3828d120-d5b9-475b-b368-a94aad264b07,Boeing 767-300,fd2a7f07-05f8-48e8-927f-156893ab79e4,Generic
+8a62f1d0-bca9-494c-bc01-1fb8b7255f76,Spitfire,8088ca94-db0c-45a7-87a9-6e6f24a4fc87,Generic
+9bbe741a-6fbe-415b-9eb1-00d45083c7a4,F-14,54691c60-87ea-4ac2-a19b-521fd33479a1,Tanks / Armament
+9bbe741a-6fbe-415b-9eb1-00d45083c7a4,F-14,0d7a8893-0f22-48f0-ba21-1b4186a03ad5,Armament
+9bbe741a-6fbe-415b-9eb1-00d45083c7a4,F-14,56b68986-7a53-434b-b400-c3868f6e9191,Tanks
+9bbe741a-6fbe-415b-9eb1-00d45083c7a4,F-14,2777a92a-f9f5-42cb-a137-29d92b254bb4,Default
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,029945bc-27a3-4bd2-831a-f593a809f918,American Airlines - 2013
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,be3e90ff-0ba3-4a65-a51f-118afd4b9505,Delta Air Lines
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,96059758-e7c7-4932-ac6b-287600e96a35,Icelandair
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,85a55755-6316-4045-8477-f972c16acb0a,Monarch
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,649cf469-a224-4ff0-a5e3-49156b72c399,US Air Force
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,2fe35dc7-bf3a-432a-bf80-4f261b274db7,British Airways
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,44f25778-528d-4e27-9215-0c495d12c82e,Generic
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,26592268-bb37-420b-b8d1-2133ab1f532f,La Compagnie
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,70aa3738-0574-4b6e-82e9-7470f4928e91,Jet2
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,405435a1-78f6-4cc7-972a-5589db10dd52,Cabo Verde
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,17696187-4581-48b9-a6b3-403c60c70df1,Air Baltic
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,c7d0b5ec-1b46-4977-9e59-b4fd6847ae69,Aer Lingus
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,8cf83fb5-82f6-4480-8f50-535d785aaf2f,Ghana International Airlines
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,e5011a5a-ed03-4083-9be5-cd63aba09950,China Southern
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,b24f9920-3d37-4939-9dbe-65a127269e18,Uzbekistan Airways
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,f0b6bfd7-aa5e-4e41-a78d-09492ff40e04,Air Astana
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,8e83417a-f960-4300-8b85-c281bcf31b43,America West
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,586ff541-fd63-4d98-a89f-4b0cd755fb51,LAPA
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,ee7f99a8-abda-4231-a6be-9ff769c62099,Royal Nepal Airlines
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,a1ca5743-5046-4186-bf70-7564961dcf8d,EC Air
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,672f8652-df76-4f90-afc0-6cc6ad205bac,TUI
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,3a5665a6-3b2c-4d8f-917d-9fd9877ceebb,Guyana Airways
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,820a1d16-2c30-4b4b-bbeb-5fc71a1aed77,Air China
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,53b62c25-9f69-4f7a-a4f7-df6c8563d67f,United Airlines
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,7de4c9b1-647f-4c7e-94b8-badcbe152397,Ladeco
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,c969ebc6-3def-4fa2-9d1b-3efabdaca639,Infinite Flight
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,f833709f-35a5-471a-b9a0-cd7d6c0b299e,Sunday Airlines
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,a7035c52-aa8e-4200-854e-6823be72e3fa,American Airlines - 1968
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,b0e04dee-d743-441b-93d2-78ed694cc4cc,US Airways
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,f48b27f6-9093-413f-a4ed-dca681750130,Finnair
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,5dca5ae5-7ba2-48f4-adee-f6450b7e38fb,Aeromexico
+ed29f26b-774e-471e-a23a-ecb9b6f5da74,Boeing 757-200,8bcc6ce1-2fec-4fe5-8411-f0540a676e78,DutchBird
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,c4837bf8-319e-4ec9-9265-b46ea6d03cbb,AirTran
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,11b432bf-2896-40ce-9e47-6e7bfd6a45f6,AirTran - Atlanta Falcons
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,5dbbf756-98bb-4089-b6af-ea2bccb79fc8,Bangkok Air
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,3310d070-5a53-4011-8523-501965e1026b,Blue1
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,b37d7a32-6555-4e43-850f-5d57c86b1d29,Delta Air Lines
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,1cdca28f-ba3c-4f15-88bd-2c0dba083915,Hawaiian
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,eccc326d-cbfc-4647-8446-e06e999d2fa6,MexicanaClick
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,05f62b14-907a-4b43-88f6-dc53df3f93a2,QantasLink
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,26767476-7ca9-40f2-b608-a3bc8fa99d61,Quantum Air
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,0aca8d69-66a2-4f59-83ee-3f874b05c858,Spanair
+341820c8-ed7e-4824-9f53-f7489231fe26,Boeing 717-200,8a7a372f-946f-4103-b1c4-7ce1bb7476c0,Generic
+849366e1-cb11-4d72-9034-78b11cd026b0,F-22,a071518d-995a-4b3c-b65b-656da0d6ed86,Generic
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,cfa39265-cde2-4706-876a-d8dd576f11f3,Generic
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,468774db-7484-4c20-bfc4-b30e28073ac3,Air Caraibes
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,772dcc25-62b1-4f32-a086-f577e0e70fab,Fly540
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,3a6fb8b9-fb8b-4cb8-beba-c2a28bbaa615,Gum Air
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,50bbbaf3-8247-4217-ad28-95c69debb50e,Kenmore Air
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,5c961e3c-ed37-45b5-88f2-bb6180385a07,Private 1
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,63a5684b-8668-4748-9698-f4576c8468c8,Private 2
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,684c6d09-9006-42bb-bc04-4bffa2cfc245,Sounds Air
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,ccfa0e83-9504-41b9-9ef8-9aa96f97d564,Westwind
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,4a67e1c7-7e1d-4f48-ba6b-24e30d3331a7,Zan Air
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,4f391a71-92f2-49d8-b4f7-23e9a5547bd9,Colombia Army
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,bade9e53-390e-42f1-a9ff-d6479eb47ff8,Iraqi Army
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,0a3b5b5a-e646-42c0-9c9b-540d94715a58,Fedex
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,544b1ff6-b7b5-4d0f-b2e7-b658df520a20,DHL
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,68620987-8ec1-438b-b049-1595a4dc0ff5,Two Taxi Aereo
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,99913d02-8d0c-4f64-a2af-553315da9ebd,Airnet Systems
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,617c006e-c8ee-4faa-884f-bce08da51aad,Castle Aviation
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,a0af6b69-0cec-405c-9fd6-15ec74886ebd,Mario's Air
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,443899f2-951a-4f80-b01a-c9c1713fe1de,Martinaire
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,825f4565-b4b4-4b82-ae32-6018d39e11d6,Med Airlines
+206884f9-38a8-4118-a920-a7dcbd166c47,Cessna 208,84b947cc-5427-4464-b837-2ec70ebea453,Skylink Express
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,10605929-b9fb-4ff3-9904-602fe542d1b8,Asiana Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,f6dd5782-db80-4e45-8216-b2054adf63a2,American Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,a20ebf14-830a-4f05-b173-2dcd30c5a586,Infinite Flight - 2019
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,f0d39f11-4022-4eac-b8c1-bd8d39f2476f,Alitalia
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,9fdf113a-13cc-4b60-a82b-d7d4ce614b41,Delta Air Lines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,48171663-d72d-4b70-b6c7-2a74a03394a4,Aeromexico
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,4ed62ac9-2802-4669-823c-5b65e496565f,Air France
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,48030882-99e0-4572-b3d6-ed1555cc90e7,ANA
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,1d5a71b3-1c9b-40fd-bd41-e82a53cc3166,British Airways
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,5bef89a5-ab43-4751-97cf-ba8b569d7666,Japan Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,f5f4f137-44a5-47c8-bcc6-0abadceeb430,Malaysia Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,2b16e5d7-7547-440e-bd04-28b946be52c7,United Airlines - Old
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,249ad181-d658-415d-86d2-a61eac3f7868,American Airlines - One World
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,5a78878b-de34-45d4-809d-47d4a3fecb6f,Thai Airways
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,f6c94d1f-18db-4ca4-b0a0-e4f04999f77f,Omni Air International
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,0f6d4d00-958e-485c-9903-66ca5d3b1d42,Generic
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,83e3dc55-a29c-4737-a6d8-5255a442e326,United Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,4ccd5568-0c74-45ec-a836-74ab19b68697,Korean Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,9d2a8eba-e588-4608-b960-4d5a83aca656,KLM
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,9c9f2445-778c-45c1-9f4f-626bdf02d8b4,Nordwind Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,462d706a-fa0c-45cf-b94e-68a4d94dd805,Ukraine International Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,7f1760d2-9223-4261-b73e-d48b9bad61ce,Austrian Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,233594d9-2f49-490a-b3de-3db4ab97b1d5,American Airlines - 1968
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,d0d20cd8-de39-461d-8cea-7d599921cd77,Taag Angola Airlines
+bec63a00-a483-4427-a076-0f76dba0ee97,Boeing 777-200ER,99cb6665-fc96-4b91-8570-052747c7676e,Varig
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,0ffc1641-3ab9-4b16-a701-033ab41ed08d,Southern Air
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,d425409e-7f32-40f6-98e1-4aa57ecca450,FedEx
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,833cd0f1-5b9e-4af9-bc5c-b4313164c275,AeroLogic
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,5ba8551e-e8bc-4021-a180-76c6a3cec21f,TNT
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,a7c375a0-f126-49af-bb18-72ffe13b0f87,Emirates Sky Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,17b63297-e3c0-46b5-a978-17f5e3c3d1c9,China Southern Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,1b9586bd-c0ca-4bc3-9e1b-9664f58e396c,Qatar Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,11db298c-b35f-4463-99ab-8c854dc35b63,Etihad Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,67ff78a3-7491-49d2-aa55-3a0feb44627c,China Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,b9a6c94f-a524-4239-a547-98bf7187f617,LAN Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,657251e1-ee11-4694-94b6-a7e2e93aa195,Generic
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,839dfcf4-67b5-419d-8470-d67a1e1e34e7,Air France Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,25e33bf8-1cf6-465f-b723-2995cfe8719b,Lufthansa Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,f6d7598b-85ec-4d7d-ae2e-7d062462d523,Korean Air Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,e315d4b3-5372-47cf-ab87-2ab8b64bcc49,Ethiopian Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,ac668682-27f3-46fa-86e6-7e6bdd873db2,Eva Air Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,59829b14-a875-423b-91ee-f7392b2a74c5,Saudia Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,41808dcd-40e8-409b-9800-ca5e8c90489d,Turkish Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,62f7f6bf-13f5-4bbe-84bf-6867ff53fd7b,ANA Cargo
+6925c030-a868-49cc-adc8-7025537c51ca,Boeing 777F,78860e9f-6031-4eed-8936-df7d9afb238e,DHL
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,6ac4bcc9-7a0b-4c5c-af7e-8b2553b984ac,KLM
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,03318dfc-6328-4e8c-8288-3a7ea69c4249,Turkish Airlines
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,816731e6-9ecd-4c4e-9f53-194f405a9d11,Philippine Airlines
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,55d89ea7-38b8-4b9e-9c2a-cfce49928bed,China Airlines
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,be5d316e-5511-41e8-be13-38dc9544623f,Air France
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,df597aaf-456c-4878-9d84-45201f2aae74,Swiss
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,359bc468-62d0-43a5-9084-b8b2fd451267,Air Canada
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,a8e1f6d4-fb79-4fc3-8e44-53a26b251e07,Air New Zealand - All Blacks
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,4b041937-0596-47f7-ba6e-664e6502478a,Air New Zealand
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,39d0ea03-5bf5-4ab0-8651-37bfe1e07205,American Airlines
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,ca7f2263-9931-432a-a7db-bedb40f5ca30,Aeroflot
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,e8b31d95-5717-4935-a353-576484bffeb0,Cathay Pacific
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,7ea21653-200a-4b3d-b1e3-c986cca14929,Emirates
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,d28b6cd4-3fa5-4fd4-9eed-011a76b44ceb,Etihad
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,4f2bebb1-1fd8-444e-bf44-b42b88546a98,Garuda Indonesia
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,d08b0e6e-6bdd-4257-bf4d-9dd5c8f4f7b7,Qatar Airways
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,7bb22fe9-58e3-41e0-8e4e-9b7068e6ac3e,Singapore
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,6a32dbf4-a163-4b60-b872-1652c9d05fa7,Generic
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,df8af3a1-36d8-4833-b110-0d7b71e195cb,Virgin Australia
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,c03797bf-658c-4683-a7a1-e8dcaafaa536,British Airways
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,f923cd30-8685-4d6e-8c53-549e651ac2fd,KLM - Orange Pride
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,36cb4e61-1e6b-4baf-943d-9719ee3fd5e0,TAM
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,38fd7fe0-9ec3-4fda-94e8-f1d94cf2d01d,Air India
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,fb704ebc-d34d-448c-b996-5d1df46a9246,Kuwait Airways
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,93761aaf-9406-41f1-9b0c-ffe8f4bee6cf,Saudia
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,3f65a6dc-ff73-43ad-b9c5-a97d7aef09e1,Eva Air
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,fe7f0ccd-c180-42b4-923f-79c5818cd733,United Airlines
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,1d7f7721-6932-46a7-abdc-b74816da4ab0,EgyptAir
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,2a4b808e-7794-47db-aa87-b85c448006b1,ANA
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,01c94477-768e-47db-8adc-fb4e0b2d3d52,LATAM
+e258f6d4-4503-4dde-b25c-1fb9067061e2,Boeing 777-300ER,364f19ad-f568-45f2-8f4e-50bf58889a58,Korean
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,e0b9c8e6-523f-4407-8a45-cc4f82b54563,Generic
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,0ae1a881-a968-4377-af67-22338b40db2d,Air Austral
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,d47f2df4-2fcb-4d4a-9286-12ae8e923177,Air Canada
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,9b511f5a-a981-48a8-8b42-a23cda651e0b,Air India
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,fe0c16ec-1fe5-46fe-a056-9643773fedd0,CEIBA Intercontinental
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,6050b8b9-bf69-47cb-93d0-555fe21bfd32,Delta Air Lines
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,f5179960-88f1-4087-8b33-53acc3bca138,Emirates
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,03949eb7-ff6a-4050-aaf6-511388690990,Ethiopian Airlines
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,f5b60b93-9b88-4d09-981b-d54aa79a2044,Pakistan International Airlines
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,aafa295c-0584-4683-b880-ac87759785b8,Qatar Airways
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,dcfdd54c-471b-4a49-8222-e42fc48b9443,Turkmenistan Airlines
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,17a5b48d-e44c-42d0-be6b-c218e3d6f8c6,Crystal Luxury Air
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,9c442e9f-251c-43bf-bb69-e91e2ee38197,Boeing
+8290107b-d728-4fc3-b36e-0224c1780bac,Boeing 777-200LR,7b3ce3f5-54fe-4f93-ae87-9a5a0812e5f7,Iraqi Airways
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,467651f3-a4f0-403a-9cc1-d734bf9c87da,Infinite Flight - 2014
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,646b6e49-caf5-4500-8498-fe56f50d75b0,Private 1
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,ec700bb6-c6b0-4d60-a988-68e4dc78d52a,Private 2
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,df537a63-a17f-464c-9597-e51767cec176,Private 3
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,27acb382-2928-46a3-a545-bed8a9c9ffc6,Private 4
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,0881a68f-3dfb-4cf1-b7e1-64960a25e9c9,Private 5
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,610f7aa9-fb49-4d0b-8cb6-af56963edadf,Private 6
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,9c0ee502-7889-450f-9f7d-bad9a8067d38,Private 7
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,1cf22093-885f-4b2a-9d3c-565185fb0588,Private 8
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,effdecbe-3941-461d-afe4-06fd3cca48b4,Private 9
+150fd3d1-1b06-431b-a889-628ae470d57b,Cessna Citation X,3357743a-61a4-4971-ae9f-8461ac89d6e8,Generic
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,2ddb13a1-157c-4872-9f77-40cc92a4c5a7,Generic
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,d5abf376-3533-42cc-86c4-8f3710e0994f,WestJet
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,ed33652c-811b-4128-a648-185c6f8e213f,Turkish Airlines
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,33d40f32-783c-422c-a055-5838761c101b,TUIFly
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,d78fbb08-1549-4e92-b7f6-19c401369c86,KLM
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,34488fc3-07f5-495e-89eb-97702b3ace7a,GOL
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,46d5fd2a-1206-470c-8533-4deed63cc359,AirTran
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,3d26675a-9041-44f5-b525-778d8f2b24e6,Air Berlin
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,9614600e-be34-4340-b3ad-31c7c89b955e,Aeromexico
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,b9ce2d2d-41ad-4d73-869b-70104d468c77,Air China
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,030113e9-c9b9-446f-9ac9-88d20f2487a8,Luxair
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,927a13b5-e1ff-47b2-a823-f998afbc336d,Southwest - Canyon Blue
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,b208d4ea-55ca-4689-94c1-1feb555c5b4f,Southwest - Desert Gold
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,1e3d3711-cd6b-4ea6-9c6a-c3e2c1c37ee9,Southwest - Heart
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,e6b105af-8676-44e4-8ded-d75d102292a0,Southwest - Illinois One
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,09f496d0-7655-403b-b633-c14eef1fb947,Southwest - Shamu
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,72929c2f-efd3-43c4-bca3-7167f57e4b7e,Fiji Airways
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,2d06f608-ed33-482d-84f7-7c724acc7abc,KLM - 2015
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,205f9b95-999c-4aae-b2cf-ba3e94f5b093,TAAG Angola Airlines
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,7c57062e-0c74-4cfd-84fa-99e7559aa7ea,SAS
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,65f3c70a-fa90-42e2-8a11-dce5f910fe72,United Airlines
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,169ece6a-d778-481b-867f-4ea4743b68c4,BBJ - Infinite Flight - 2014
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,beddc4f8-a6fe-4141-bf0f-c976bedc124e,BBJ - Infinite Flight - 2015
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,21fa24d7-7493-4baf-9026-90f834b3eca7,BBJ - US Air Force
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,e28c8b6b-9fb1-48b3-a598-7b2c114a262c,BBJ - Gold and Red
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,fc01ff1c-6da9-4f6e-9a3c-ebb6747f3f23,BBJ - Black and Purple
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,fa859c66-ef04-42f7-a281-29b03f696a29,BBJ - Grey and Black
+2ec6f8cd-fdb9-464f-87c2-808f778fdb1d,Boeing 737-700,6802642b-db73-4838-81e9-81098c0be1ae,BBJ - Infinite Flight - 2018
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,02a8c821-2105-4b3d-99eb-1d8223076bb0,Generic
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,e0567288-665a-4285-99ea-845e92329206,Alaska Airlines
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,7da07d85-ac0b-42a7-a94d-91bb95bb23c2,American Airlines
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,580dd907-26c7-4977-882b-fd77dd4e9f0b,American Airlines - Old
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,b59c6ae9-803e-4d5b-afff-e4fec4a9cc6d,Copa Airlines
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,25ab2650-9f1f-4981-8e32-a3fe891ea8d3,Delta Air Lines
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,4b63efe8-1188-4e39-9c14-ab23be432fde,El Al
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,f401871d-471e-49b9-a144-f14a09a2d71b,Garuda Indonesia
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,1b4b96cf-9df0-4188-994e-7d87dea49dbc,JAL Express
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,c6cd7560-1351-4d49-95a8-62c5c5e63509,Malaysia Airlines
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,714153d2-39fc-4e28-ac8f-6bf03baa93d4,Norwegian Air Shuttle
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,27b2962a-4315-496a-851c-c809a95f3356,Royal Air Maroc
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,4444cae6-7aa9-4ca1-aea8-866cd0d4751c,Ryanair
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,2e6f5324-c801-4769-9101-3b15164b38aa,Southwest - Canyon Blue
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,4bdeab72-1849-4838-a3da-7984571e4c5f,Thomson
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,8c6741da-8e7d-4fff-8a5a-c0c1803c3a78,Transavia
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,bf8d45a0-878a-4a9b-9c2c-20c701ed652b,TUIFly
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,68d723ee-ad45-4b8c-acb8-468f6a6c3713,United Airlines
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,8684e59d-f21f-4d07-9f48-8ceaa0a3da85,Jet2
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,73983b9b-6fbf-4a41-8cda-5705a205d9c2,Caribbean Airlines
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,78a78eb5-9b23-4e4d-8312-2db5f4ac889a,Qantas
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,643f687b-9553-4dd1-a98b-7932b6ec0529,GOL - 2018
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,a1a53d68-462a-4a4a-afe2-02361297f048,Aerol�neas Argentinas
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,8ba514eb-638f-47cc-ac81-15f7c2f4fa2a,SAS
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,7871553d-8dcb-49c0-8933-45bf680c7231,Arik Air
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,a0916499-07fd-402f-a6ef-4e2c1c97ebbc,British Airways - Comair
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,46d3f77b-b8f9-4aa1-83e2-344d3ad55a34,EgyptAir
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,d3c3e524-e6c0-41d4-9b7a-d96ecd8b6fd6,Flydubai
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,a3275da7-6b22-4037-9e71-3a47ae042941,Kulula
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,b3e6f1e4-91e0-4944-b95f-e824de7df9fe,LOT Polish Airlines
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,529073ab-a627-49e4-a9bd-82d24818ea62,Mango
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,addc229f-cffd-4965-bd43-9744928396e3,South African Airways
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,dd57566a-ceb7-44af-9667-8f4f28b049dc,Southwest - Heart
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,20b5b6d5-a460-4637-a4f7-a90a3a10b248,TUI
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,f68c3d65-7a7a-4f8b-9488-b071281e1613,Virgin Australia
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,299d8f96-6a9b-4b38-8994-f56024f0531c,Webjet
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,3ae370a0-2162-423c-a8ec-41982f011436,American Airlines - TWA
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,482953cd-3f43-4ca5-9850-590960610bfc,American Airlines - Astrojet
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,59644661-7b64-444c-8ce6-4d7dc6c10094,Westjet
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,6cd046f4-ca62-4450-8b51-6cb68dc2f5a0,GOL+
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,4b791971-49ce-4e11-ae5d-90f09ffd3993,Kenya Airways
+f60a537d-5f83-4b68-8f66-b5f76d1e1775,Boeing 737-800,69d733a0-e290-4cf6-adba-f919d547f86e,United Airlines 2019
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,1f2a3c41-e524-44e0-a16a-fc98ea892d60,Generic
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,3b78c0ef-9e50-4a88-a6ac-008637a092f1,Alaska Airlines
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,7d3b9146-9ee3-4c40-a4e4-eeb260fb7527,Lion Air
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,71d5561f-d645-4032-a067-c79a929227fe,Korean Airlines
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,db9788ef-23bf-4dec-876f-afdfebcf516c,United Airlines
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,cca1521f-d062-47c1-88cb-9a7632db19ca,Factory
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,990fae44-9d28-4cb0-9ad6-558c9911c131,Ukraine International
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,a2f22392-7af3-4344-a29b-fc8fbd44a800,KLM
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,b4e57453-29ed-4cff-9098-bdb81b000ccc,Turkish Airlines
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,ed553760-866f-41a9-bda0-33da4d0ba8b3,Delta Air Lines
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,6b6e2aa3-3f85-42c5-8925-d4e09bae10ce,BBJ3
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,69d1aeb0-2560-4bc7-a4c8-a49f1dcafe6c,Jet Airways
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,3d3c0efd-a27e-4e48-921d-e14f8a499e27,Aeroflot
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,dd1dcc93-5ff7-43fd-85b0-45882b0afe9f,Sriwijaya Air
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,73496cb1-d3ad-4ab2-a69b-4e3135cc11ad,Malindo Air
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,4bc4aa6b-fbb4-4bcc-8879-8360d7ca44cf,Alaska Airlines - 2016
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,d1c08a57-e6ca-41f2-9957-ec6509efae55,Alaska Airlines - Virgin
+64568366-b72c-47bd-8bf6-6fdb81b683f9,Boeing 737-900,153d8b77-7fb1-4c6a-a204-0a2007e9d3b1,Spicejet
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,f7f41044-fef3-4946-a715-7ad45e355e6c,Generic
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,c875c0e9-19c2-420d-8fb4-32c151bd797c,Air France
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,d0ce813d-f935-4c3e-8a80-25c4e5c9de5c,Atlas Air
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,a52b44dd-ad32-4b98-95ae-75dbd7c012b7,KLM
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,da870199-7c69-4e36-a429-5c358027cbbc,KLM - 2015
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,a2d31484-994f-4d79-a14e-f02b051f0996,Asiana Airlines
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,f197e9e6-f684-4c86-bdcb-a1a090eb09c4,Philippine Airlines
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,402e9952-6086-4f54-90c4-d809b35b3c90,Lufthansa
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,c79fb33e-a0fc-4b2d-894e-5b95527e7133,British Airways
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,d13fb02f-80d5-4574-8296-2d921c3b1986,Cathay Pacific
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,bbd9aceb-63dd-4acb-97e4-579156d02a7f,Qantas
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,d94d5b35-3c91-41f4-b3d2-53b5cddb9323,United Airlines
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,22d68e43-3921-4e78-9f86-ee547710d6ab,Thai Airways
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,2f95f32a-64a6-4828-a8b5-e9c2ae3c86cc,Delta Air Lines
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,728b3068-37a7-48d6-8eb3-37ea557d1e62,China Airlines
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,de4f4e0f-1678-45b9-b898-99b005b394db,Malaysia Airlines
+de510d3d-04f8-46e0-8d65-55b888f33129,Boeing 747-400,f40bd998-f933-4cb4-ac02-14fe774cd682,Air India
+0d49ce9e-446a-4d12-b651-6983afdeeb40,Boeing 747-SCA,948c7d6d-b93e-44e4-8058-72e9fbccd16a,Shuttle Carrier
+e94ec915-3368-4bcc-bc78-2c5ad3cfbabb,Boeing 747-AF1,efc62084-4078-4e64-878a-ea276dae2b61,Air Force One
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,91c85aae-5291-4557-8d22-5c15de9dbbc1,Generic
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,35662142-596c-468e-ade6-41d480e0a787,Air Bridge Cargo
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,eecb55e9-7afb-4511-9efa-26cb3f1858f1,Air China
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,da881bad-4b65-48c7-bf7e-afcffccec676,BBJ
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,66957431-291b-4631-a6e2-afd300cd7f08,Boeing
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,c411ae45-da02-4926-889e-d916b549c07d,Boeing Freight
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,319eff75-f177-47c6-bbcd-beb82d6d86a9,Cargolux
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,8fc7b30d-a63a-4a08-8dd0-15e9666b2801,Korean
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,13eda18c-f8ce-45b3-8a46-10e188b34618,Lufthansa
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,9352a1a7-5232-432b-945f-8b5576c1b074,Nippon Cargo
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,7ac6510b-6f2f-4705-a54d-3420f3ccbebf,Transaero
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,c22a0cf6-5dd8-4af7-8cf4-e0c219ef5e6d,Infinite Flight - 2015
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,a4084404-4469-4ed1-8d2b-8ac28cb1ca9d,Lufthansa - 2018
+9759c19f-8f18-40f5-80d1-03a272f98a3b,Boeing 747-8,88e3c777-6dc9-4d49-9d59-0d91fdf0d471,Seattle Seahawks
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,f2903494-41e5-4d0d-acb4-88001fb6a8e9,Generic
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,b5e73279-8985-41b3-b812-7585e76c67b2,Air Canada
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,88a4db7e-9879-43f3-ad28-a0cccb139424,Alitalia
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,72e4a47f-1a7b-4d19-926e-3df058aae2d6,Iberia
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,8ca22232-8898-41b7-bb70-251e56ce28d4,Iran Air
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,83597480-327d-4c5e-9d4d-f0ab297ded90,Japan Airlines
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,f7afb10c-f0de-4d13-b19e-d459db06b675,Northwest Airlines
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,b756a9a2-9d69-42a3-bf8f-865067d6e848,Olympic
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,8843e889-fb91-4d8f-9b3d-a0dde5517849,Pakistan Airlines
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,7214f6fc-8486-4af4-a65c-be5bd5e8f91a,PAN AM
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,d72f9b34-d2c9-4cb9-a551-714e005e8d22,SAS
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,390a016b-28ca-4b96-8bca-c4f32f208e51,South African Airways
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,88b2b8b8-1b26-4501-ac93-0b0719d9ce1a,KLM
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,5fe2e9e5-4706-49c1-9282-502443401f73,Air Portugal
+c82da702-ea61-4399-921c-34f35f3ca5c4,Boeing 747-200,6595d875-006f-45d9-a447-39278729cc2a,EAA 50th
+3ee45d20-1984-4d95-a753-3696e35cdf77,Boeing 747-SOFIA,6321131f-ffeb-49eb-812d-03af2b4373f3,SOFIA
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,46f372d8-514a-4c27-bde8-f47621e1ec8c,Generic
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,3915fc88-b204-434e-91c4-f8fe33839be7,Yakutia Airlines
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,b6f317f2-798f-4c44-b0e1-06f9040b6ea8,Island Air
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,bfa777c3-f67f-479a-a84e-be735ee57239,Air Baltic
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,9df86614-4e61-4fd5-9d6a-be2d16cf6459,Air Berlin
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,b7606267-d23f-4c32-ac24-7682c80f89b8,Air Canada Jazz
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,ba0ccb32-2d36-440d-860a-8da77f2df134,ANA
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,6ef12bac-2400-4df7-bd7c-29bf0285e9a8,Austrian Airlines
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,975d54a0-cd56-4e91-acb5-77bcf879749b,Croatia Airlines
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,baac6199-7b86-479a-87ce-786f529b37a0,Ethiopian
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,b6928ea6-c366-468e-b96f-027ef4ee4001,Flybe
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,5f3c7446-ab70-4c26-b4ad-291e2090d50a,Horizon Air
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,9c581eb5-8f03-4bbc-8c15-55533d43ad0d,PAL Express
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,f4cf673d-406c-44d3-b5f6-d0e6e876616f,QantasLink
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,c2770ccd-90c2-47ef-b004-f77afe222070,SpiceJet
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,43dde638-c20b-4ed4-b2a6-40ef1de9764a,Tassili Algeria
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,860411bc-b75a-4c2e-8582-839b0069e9e6,WestJet Encore
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,c5892f6c-cb8a-45e3-a088-718921dda8d6,Infinite Flight - 2015
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,7bd10b7f-601c-439b-804d-4ddfbb9ffe5a,Lufthansa Regional
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,6531a74a-17f0-468f-b2d0-a08272afd9c6,United Express
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,a660a58d-f9ef-45f9-afb6-b3bd65b37889,Bombardier
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,5cfb4c00-c2c5-4e5d-8509-fa9eb3ba0144,Luxair
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,bac6ef32-6fd7-4afe-815d-c62328a7804a,Porter Airlines
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,9c34beeb-586a-41f0-9ee8-af60e45b6a11,SA Express
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,698f5afc-e046-4ca5-af19-9c05f3eeb834,Malev
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,3ea65429-db58-4a36-af24-735ef1cdd4f9,Wideroe
+3098345e-1152-4441-96ec-40a71179a24f,Bombardier Dash 8-Q400,9cb884d0-1fde-434c-a1e9-53ab4c0640e0,Securite Civile
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,fe1a992f-16ef-4dac-b100-c838e710f489,Generic
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,e920e3ae-59a7-41d3-ad83-cbe53267efce,Aeromexico
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,126d80f1-5f27-4fbd-ab07-2fa9f4ddd23c,Air Austral
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,e992fb45-c10b-4908-8a6f-cb1b3bb56806,Air India
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,a6b6dfb8-1a54-45d3-8a9a-ea336e49add0,Avianca
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,3d7f402d-8272-47b1-9c16-f012b4e0db50,Azerbaijan Airlines
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,536c7412-1341-46b7-a1ac-d479ef24bf63,Boeing House
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,c955ea58-3084-465c-a72e-f8dae47a445b,China Southern
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,6b9a33bb-a8d8-491b-af79-e1b6fbdad079,Delta Air Lines
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,eca9dc2f-b1db-4010-8cae-a5b7741c1bd2,Ethiopian
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,f3b11463-634f-43c0-867b-39bc991376c6,JetStar
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,95e854f5-598e-48a3-a118-2105f76ebc97,LOT Polish Airlines
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,39295c5c-eb18-4bae-acbc-27f3d708c67e,Oman Air
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,a3e4e9cd-3a91-4558-ad19-91dd5e3f8e79,Qatar Airways
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,7d08852a-46a0-4393-80ab-cdca668e91ac,Royal Air Maroc
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,a352c5e2-e02a-480f-b01b-96f67ea7c261,Royal Jordanian
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,c3f53407-a8c2-4c04-9969-a604dd57e543,TUI
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,6b3344a7-15a0-4af7-831e-50ee50fbcb41,Xiamen Air
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,eade910a-5e64-4551-a734-0521e0fc5ed3,Kenya Airways
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,ab1d4246-5e8b-46d4-8911-1ca7e9ac1c33,Infinite Flight - 2016
+c1ae3647-f56a-4dc4-9007-cc8b1a2697a5,Boeing 787-8,cd494c39-5ca5-459a-b894-b375f6eabe9f,Thai Airways
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,03b2e31d-2be0-4b96-9058-0e7c920de722,Air Canada
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,8874908d-e03a-4f39-aedd-2792103dd1f7,Air China
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,f4c8c41b-0e39-4c56-a984-c630f99a2a96,Air Europa
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,821016ad-cbeb-44c7-9a56-823732c71498,Air New Zealand
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,27d9aebc-a139-4671-9e0f-a8407abe8387,Air Tahiti Nui
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,382430d1-7485-41ca-b732-9fa8595ea054,American Airlines
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,29c954e2-b2c8-4784-85b9-5f8f8d4d215d,British Airways
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,20658961-d100-4a31-9660-ac65d95b7225,Generic
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,13230bd7-1f77-4005-a1f2-f0e65e5f7551,Japan Airlines
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,ca30b4a7-10fc-4a23-a00e-e56862db9975,KLM
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,82f96a77-e15e-410e-8fa8-7de5c9120abf,LATAM
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,9f441fd1-471a-4c10-a335-c41de3e4cca0,Norwegian Air Shuttle
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,8887a4aa-4043-4c29-a9a8-2d4269d5daf2,Qantas
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,dad996b6-3660-484d-934c-a932fc8fcf34,Saudia
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,9318aaee-cc1d-43c2-9acb-bebb247de74f,Scoot
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,47707e19-632d-4ff4-be8a-488e60f00012,TUI
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,e4441cbb-58df-4b4b-b9ef-81a2037d657d,United Airlines
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,18857934-9d28-4479-91b2-6b5befc632a9,Vietnam Airlines
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,9d4be727-5538-403a-a520-abd4a8cc0cfa,Virgin Atlantic Airways
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,7458968e-86a2-4fc8-98c2-f8438204e08b,Turkish Airlines
+0c039044-1a57-48db-99c1-7570a6bf2b00,Boeing 787-9,e7c74edf-b171-4966-b8f1-1e4743a0755f,WestJet
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,4ddfdfe0-4777-47f7-bcde-65d8d39cfe7b,ANA
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,e58cd012-3e91-4f51-87ed-d2523584b16a,Air France
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,94652613-16a5-4285-ab2e-700714c09cf5,Boeing
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,3ad0777a-2a57-4346-9e56-8f428c6ae893,British Airways
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,3c79b737-832a-4932-b7e7-7cfaa6169772,El Al Airlines
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,635a3906-b726-4625-a020-9eb578c6713b,EVA
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,f100eb35-a2c2-48a5-8e67-822edaf88355,Etihad Airways
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,b6974a9a-dba3-40b6-b3cc-0f987416ec1e,Generic
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,655dd8b9-c633-4e93-b55d-f52cbb827939,KLM
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,3a4884a2-f89f-4b94-b74b-d113a5353367,Singapore Airlines
+61084cae-8aac-4da4-a7df-396ec6d9c870,Boeing 787-10,a67495ce-5e3d-4b5c-bb53-bcda21d1e61d,United Airlines
+7b6e1658-42ab-4fc3-81ec-706445346d46,C-130H,72f18800-97b8-4152-b0da-6af614cccd72,Blue Angels Fat Albert
+7b6e1658-42ab-4fc3-81ec-706445346d46,C-130H,06681547-4722-4c53-bdcf-41f485aeeaa5,Royal Netherland Air Force
+7b6e1658-42ab-4fc3-81ec-706445346d46,C-130H,7340eb5f-ea27-470b-b532-441f5cf11036,US Navy
+7b6e1658-42ab-4fc3-81ec-706445346d46,C-130H,0346d847-8a71-4ef1-98f7-9b2fdea473df,Egypt Air Force
+7b6e1658-42ab-4fc3-81ec-706445346d46,C-130H,05d1c28e-3da9-4d62-a3dd-90da1e612149,Belgian Air Component
+33d26fc7-ae7d-4c5d-9e0d-d6cba93d4913,C-130J,596303af-645e-45e3-b505-63967258cb51,RAF
+33d26fc7-ae7d-4c5d-9e0d-d6cba93d4913,C-130J,8aec783c-c71d-4313-b9c9-e0ce2dcc8c9f,USAF - Moody AFB
+33d26fc7-ae7d-4c5d-9e0d-d6cba93d4913,C-130J,a0d40992-596f-4e62-932e-2de7fad2eb54,USCG
+33d26fc7-ae7d-4c5d-9e0d-d6cba93d4913,C-130J,13abd66e-f77e-4d2a-89d1-dfdcc2ec020b,RAF - 50 Years Anniversary
+33d26fc7-ae7d-4c5d-9e0d-d6cba93d4913,C-130J,85a3a6d5-47df-495f-95fd-9c2d7078e0b8,USAF - Hurricane Hunter
+e0e1900e-0e63-4700-b508-5e2efe120ce5,C-130J-30,4f87bfdb-5ca7-4242-a1c6-21d712b16d3f,Indian Air Force
+e0e1900e-0e63-4700-b508-5e2efe120ce5,C-130J-30,60e5784c-3c9e-4fe1-9d39-668f974b102e,Royal Air Force of Oman
+e0e1900e-0e63-4700-b508-5e2efe120ce5,C-130J-30,5c3c6a2f-9b5a-4273-9dfb-e4d33d75a8c5,USAF Little Rock AFB
+e0e1900e-0e63-4700-b508-5e2efe120ce5,C-130J-30,baa565de-9424-40e7-9ad0-73b07dcdaea1,Royal Danish Air Force
+e0e1900e-0e63-4700-b508-5e2efe120ce5,C-130J-30,082f5a75-f188-41f9-bf84-329a143ce7a5,Royal Canadian Air Force
+876b428a-3ee2-46cd-9d8c-2c59424dfcb5,AC-130,3fa84232-6e91-49a5-a2ee-47fa5cdc9497,AC-130
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,d46f09cf-dc10-4eeb-a7c9-f6d0d9248e4e,Generic
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,2b831377-5c3e-4854-818b-00aa9b15cde1,Alitalia
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,9dadabe8-4cc5-4943-aff8-93150e1f8e1e,American Airlines
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,7935b030-3496-4e43-bcc1-711332cef69d,China Airlines
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,967d052e-0380-4bed-83ac-21103af4b288,Delta Air Lines
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,5be48866-b118-4970-ab90-7cc37a2d31d6,Garuda Indonesia
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,26f624fc-c688-4f65-9a0c-48e54c2edc33,Japan Airlines
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,f33661b4-4917-4712-adc7-170df885d592,KLM
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,035e5536-708b-4949-bb57-afce2a17f067,Malaysia Airlines
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,7ceb8d50-446a-4159-b54c-305348caad60,Swiss
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,68ec63be-5e72-4a22-a0a2-c06fde412b81,Thai International Airways
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,c097f219-f054-4b56-939e-44182ec3f1a6,Infinite Flight - Retro
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,a31b32c7-3c5e-4085-9451-9f5c1765caf1,Philippine Airlines
+b1e726b0-be58-4a9b-88e5-e40bc40a1f9a,MD-11,622f9a71-f78f-4682-83b1-5471df2dba60,Private
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,49d08a50-3179-422a-b33a-a7c91628de75,Generic
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,bc979e7b-957e-4f75-bed8-cb7334671693,Aeroflot Cargo
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,291750c3-82fd-4406-99a2-3b01572e762f,Centurion Air Cargo
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,256df05e-c0b8-41b2-81a5-ed27c72f450b,Ethiopian Airlines
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,f7a85def-8298-45dc-a954-d0b9d4043cd8,Fedex
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,7bbe5ebf-e369-4d8f-81f5-d9931e82ca7a,Lufthansa Cargo
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,eeda026b-d60e-4930-9aba-fcd8b754dd3d,Martinair Cargo
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,5f025448-0483-4d74-b5de-91f5054e4e01,Saudia
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,541c7f4c-e0ab-4ad8-81a7-45c3127a2194,UPS
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,b6c4c11d-5e82-4ddc-a925-17a2e63d6964,VARIG LOG
+3f78766a-30c8-4d65-95ae-ebc2fb758aac,MD-11F,74f624d7-e1f6-477a-8d85-1d099a5108ca,World Airways
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,33458643-bc06-4423-ba37-5cbee16a1b6b,Air France
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,407757d7-5a8b-4dd8-859a-f51e9801c87a,Air New Zealand
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,d8935bb9-8b90-4f2f-9ffc-ac38747c0f5b,Avensa
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,d042d444-bfb1-4878-95e1-13067dc5a62c,British Airways
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,c23815db-d9c5-4059-99de-e663803eea06,Canadian Airlines International
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,3663e3bf-7286-46e2-b869-4b1e1f2c99db,Condor
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,95770e58-769a-4b07-b382-abb3efde5da3,Continental Airlines
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,4f781f83-cc1f-45fc-958d-5fae07e72b64,Generic
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,a5745af6-ea0e-402f-80c5-fac35783420c,Monarch Airlines
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,3b711c68-280a-469a-98a2-54595192aca4,Northwest Airlines
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,4261d0b6-a0a5-4a09-b583-e8cc3b605a2e,Pakistan International Airlines
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,d8f3fd4f-1766-4980-bda2-c4608ac7e93d,Singapore Airlines
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,870ec5dd-1152-4d99-a398-8578ee4af99d,National Airlines
+693c3fab-307d-4467-aa40-0a4d569841a9,DC-10,cf637540-e775-40b8-a2d0-28807ab75583,Omni Air International
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,e5e45b80-5496-43a6-aeda-8ded9bee3286,Generic
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,a1cc0a72-39a9-488a-80e1-ca3c6460673d,10 Air Tanker Carrier
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,d8ed15e3-522d-44c8-9324-42d93961d726,KC-10 Extender USAF
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,9508c65e-2992-4759-b382-3c0e75c24923,KDC-10 Royal Netherlands Air Force
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,c245a1e6-2619-4b05-b200-7f5c27cad98c,Arrow Air
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,8adca00c-46c6-45af-85a0-dc5dadb2de03,Avient
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,2c9e7c94-ecc5-48f7-a2c1-c5e31b1dffc9,DAS Air Cargo
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,e281cd76-dff2-4ca9-8e54-93539a727650,Emery Worldwide
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,4f62a437-cc2e-4a97-901f-9c12a2c1ad17,Fedex
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,1d22a74a-9085-4de6-a844-f9989cdb0bb1,Gemini Air Cargo
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,d4ede23f-6ac0-4d18-bd1d-37c1871c3791,Kelowna Flightcraft Air Charter
+e59fa7b4-b708-4480-aebd-26659a4f312b,DC-10F,0e93fcc8-f9e6-46e8-8189-7eb899cc591b,Solar Cargo
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,ec160f7e-1b3e-4f5f-b471-09e6fd01be35,Generic
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,284be6de-0020-453e-a08b-bb8f8d7f5ae1,Air Canada Express
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,c995fa38-1c38-444b-a45d-af1eccef99bd,American Eagle
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,4f17ca20-2ff5-415b-bba0-e5b6d844d78f,Aruba Airlines
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,552a0644-67ab-4265-b731-d6582205cbb2,Belavia Belarusian Airlines
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,37e662c3-4750-4a66-b510-5e3bb136ac54,Delta Air Lines
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,617d4033-1628-41c5-b451-ae9bc1c8c0b6,J-Air
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,902a8ed7-564e-414a-bad8-2ea847279c5c,Kendell Airlines
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,7c720bad-6a9d-4480-9353-c488d202508d,MexicanaLink
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,310e269e-1d37-42b2-9bf5-ab3224445d23,Northwest Airlines
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,11c67791-d66a-48a4-ad5a-48dac60936e0,South African Express
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,92fb0822-f2f9-480d-a94b-c071a686a441,United Express - Old
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,b23e7ac2-9cda-44bc-a73a-5bb761693250,UTair Aviation
+24364e52-3788-487f-9f98-00f38b1f459c,CRJ-200,f6eca7cc-75c6-462a-bb2f-2be5efb94859,Infinite Flight - 2018
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,bc18746a-80d4-47fe-b6d2-087bddd88e54,Generic
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,5fdecc98-313b-4b6e-a383-8e6fdfda6062,Adria Airways
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,97b096a5-2d27-48eb-92b2-7151346c311b,Alaska Airlines
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,19dafc50-f0f3-45fa-b065-914f9590d238,American Eagle
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,e372da9a-a9a4-4d58-9f0c-1d1119263744,British Airways
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,c041b986-73ca-4a7f-9b51-dab38e119353,Delta Air Lines
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,9f901e23-3700-4482-9e6c-b7f79e2389ba,Frontier
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,11c3bf04-2450-4993-a68f-847a39be5817,HOP!
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,5df51346-e0d3-4619-abdc-d3da6c120344,Nordica
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,185bab75-c400-477b-b159-e5be2bf82021,Shandong Airlines
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,c0eee75c-a903-4d24-a5be-a0c3f6f60d56,South African Express
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,47be6bc0-9b26-42da-8278-954cb5c7d417,United Express
+8f34680a-a4ad-4f21-91e9-3a932ab03ca4,CRJ-700,fdb3210e-a3cb-4af6-881b-0f175c94df9d,Infinite Flight - 2018
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,d752a83a-af27-42bd-a211-a18905e9dae7,Generic
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,5af2afed-51a9-45de-a442-709f949a5443,Air Canada
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,e49176ae-7db4-4408-823b-9ec9b3eaf9a3,AirOne
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,f7293d13-4584-458f-a2b9-1e7c81fa6ac6,American Eagle
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,abb24657-2cc5-4ee4-9940-4d13e1e74c88,Bombardier
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,aeb402f7-15fe-4aec-bd0c-07b924b0ead3,China Express Airlines
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,8aefff86-a91b-4e9f-be05-15e536c1df45,Delta Air Lines
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,9c8a3c14-a2f3-437a-b57f-2dd0d383a1a6,Eurowings
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,def436d9-3c0c-4e9e-8dd0-9087cd978dba,Iraqi Airways
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,2fc6c907-911a-43c2-b354-d89d416cb3d5,Lufthansa Cityline
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,23dee117-b1d8-4a1d-a297-da18f953bb49,Northwest Airlines
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,2034e4ad-5daa-46eb-8b7e-6ea188663b9a,SAS
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,26d9d19e-d3a2-4862-b4e9-9a15a98ff974,Tunisair Express
+958486b0-1ef4-4efd-bee0-ea94e96f6c96,CRJ-900,426eda40-e825-4d9e-90f4-1a61b54a0c7f,Lufthansa - 2018
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,ed0fa637-f03f-4597-8a1f-4d8cc4ed3695,Generic
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,c6e68c78-a85e-4021-8d1a-ae4deba3f833,Air France - Brit Air
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,e45ce5f2-4f91-4a2d-b080-5e68ce478243,Arik Air
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,aba52ae4-f8c9-471f-a769-5761cb0a3c5c,Binter Canarias
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,16dd37e0-3537-4f75-bf4e-2ccad1cb9689,Bombardier
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,d30edce8-fd38-4cec-8833-5603c1868a22,Garuda Indonesia
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,44cec8ed-2847-4fa2-8746-bd7203c6afde,HOP!
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,02a367a4-9d58-4017-b737-7a4bb4b2dcb2,Iberia - New Air Nostrum
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,fd46cfe4-1095-4cce-a17e-06439079b7bf,Iberia - Retro Air Nostrum
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,829fdf86-13a8-43a4-b7a5-69028280c6d0,MyAir
+b3907f6b-c8cf-427b-94fb-1f9365d990df,CRJ-1000,80287e95-d114-4dc0-8d6c-71ce36e0c618,Garuda Indonesia - Skyteam
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,a1769862-5a14-46ae-ac44-1431dcfa7383,Generic
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,690035fd-6fdf-4ede-91a1-d4b4289880de,Maroon
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,3e382c54-0cdb-4715-a7ff-4c0c527f7830,Navy Blue
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,4599f1a5-6e3c-477c-a21e-95c8d0d8e1e8,Black Red & White
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,8aa8f0e5-2788-4724-95f7-b4b07830a4b3,Charcoal
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,71efea3d-aa06-4da8-92be-8a526fee53cd,Sea Blue
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,096a3753-d371-4d64-9a74-b124d1253090,Red Stripe
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,ea8a80ba-74d7-448e-9096-e356a924e49e,French Air Force
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,50a4c42c-faf5-41fc-a3c4-2291620997de,Infinite Flight - Dark
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,e8363f2e-2a8a-47c6-be47-ff18ce0511bc,Infinite Flight - Light
+3f17ca35-b384-4391-aa5e-5beececb0612,TBM-930,d4900f8c-44e5-40f6-b065-8e31dbed0dd1,White Red and Black
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,e41c8c2a-233e-494b-a44b-7adc9c91b6b3,Default
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,c63c3cb2-bf2a-440a-b8bc-f59878fe4cf7,F-HATZ
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,dbd7a7f5-1332-4e27-b9dc-53eecba3433d,N456DX
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,41344fdc-071a-42df-9022-810edf96585d,N1322K
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,f930593f-8be0-40df-917d-6dbff6150026,YellowBlue
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,35c0fa30-57be-435e-b2c5-9a423289fd67,Embry Riddle
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,9c825fcb-31b2-45a8-a371-901fe15dcd5e,Civil Air Patrol
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,dabfb7f4-6fd2-4d25-87d0-d98e7944eadf,Near North Aviation
+ef677903-f8d3-414f-a190-233b2b855d46,Cessna 172,60519b47-7340-48f1-b5d9-d4b99021a6c2,Infinite Flight - 10 Year Anniversary
+8bafde46-7e6e-44c5-800f-917237c49d75,CubCrafters XCub,6ff435b2-55ca-438b-8d2d-a53862af1653,Red and White
+8bafde46-7e6e-44c5-800f-917237c49d75,CubCrafters XCub,4a813d77-1417-4531-a7a0-55e57c53538d,Yellow and Gray
+8bafde46-7e6e-44c5-800f-917237c49d75,CubCrafters XCub,8be2fb24-d2b3-43d4-9e38-567a64b3a7f0,Black and Gray
+8bafde46-7e6e-44c5-800f-917237c49d75,CubCrafters XCub,a9d7f44e-d97a-4871-b77c-1d2688d45628,Launch Edition N500XC
+8bafde46-7e6e-44c5-800f-917237c49d75,CubCrafters XCub,a591a34c-2c1e-455a-aabc-e0fe15f3bcda,Yellow
+8bafde46-7e6e-44c5-800f-917237c49d75,CubCrafters XCub,bf697df7-9206-49ff-8b91-1a5659e5832c,EAA 50th
+8bafde46-7e6e-44c5-800f-917237c49d75,CubCrafters XCub,026ebd2f-8104-443a-83f8-7ba4e740ac69,Orange and Gray
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,4b2c2c5f-7046-4dbe-942f-3d4f25042761,Aer Lingus
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,ba2355e0-3a26-4c47-8c88-82599dc61a0f,Aeroflot
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,463445eb-9099-4926-a048-63fc60f19f37,Afriqiyah Airways
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,4064efa8-f4ac-4a74-a95b-824f3d1ca21c,Air Caraibes
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,6fc46282-290a-49a0-89e1-8db16162d714,Air France
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,d09a1283-b2ff-4cd2-92f4-1d54c2a46c1b,Air Mauritius
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,f334063e-5103-4b3b-bd15-b1b2fdb220fd,Airbus Factory Carbon
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,2b6f911a-5838-4a1a-85ae-910ca5c811da,Asiana Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,dcf7a0fe-88a3-485b-ada8-23b171deed89,Cathay Pacific
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,74e4c235-9e91-4ffb-8cab-212028b1527a,China Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,1bb4cf21-83c1-4d51-b07e-d7dd84ec554d,China Eastern Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,8ee511ab-7111-48e0-bd15-ca166f43be59,Delta Air Lines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,07bed37a-f2c3-4114-a9e3-77acecfd8a74,Emirates
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,fcff5483-76a2-48ed-85be-c7380989a2b7,Ethiopian Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,faff671e-6271-47e3-8fd6-ab4662ede45f,Evelop Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,f6fed126-2bba-4f38-ad9c-d1f25b419b18,Finnair
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,934197fc-ace9-40cf-9ccd-9a1bc70a186b,FrenchBee
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,cc175a38-a63d-4fb1-8b4a-7e2d0e8b9376,Generic
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,149db242-93be-441b-b2c4-d541bc710aff,Iberia
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,62aeef34-df3e-4e08-bff3-66f0e91de6ee,Infinite Flight - 2019
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,615c53c2-b039-419e-b253-8c8eb55cb61b,Japan Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,63c3a9f2-1cd7-4c04-b8c6-ef5518cdc8b5,KLM
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,f8db8f7b-35ef-4d6a-9248-2bc5e5008d49,LATAM
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,ed37bd77-c5bb-46d8-a201-39a4783c6f31,Lufthansa
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,a88138fe-0e33-41f8-b1e6-ca39c4b000af,Malaysia Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,dd569189-63b6-4809-bcaf-0e97f5d99629,Philippine Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,2417ef4b-f78a-4dae-898e-101f7297027b,Qatar Airways
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,06e691b7-c7a4-423f-ade6-546c81f5ecfe,SAS
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,020a573f-4d0d-47bc-ad0e-b21d08d0a81e,Singapore Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,98d8a712-8783-4846-9205-ccc5b7e3b2b5,TAM Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,0d76f6ef-2485-4830-8d6d-36e82996fb5b,Thai Airways
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,a780fede-54ac-44ef-beda-a5cc18b849a3,Turkish Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,8ef054d5-5f21-4eb9-af53-93f4bd7772aa,United Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,22b582bc-a352-4be5-aac2-a82ba088a6a9,Vietnam Airlines
+230ec095-5e36-4637-ba2f-68831b31e891,Airbus A350,b56f0f54-f530-4ad0-91b9-cd86917b766e,Infinite Flight - 10 Year Anniversary
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,5fa22d06-1d44-46e4-b797-6c254b23cbfc,TAP
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,c4007cc5-ef7d-4cab-af93-6be9fd15be1a,Air Mauritius
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,8b31b81c-7981-4ab8-b2bc-ca1f3d59456b,AirAsiaX
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,dc8b3359-5170-4844-8043-274b27447164,Aircalin
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,1716cc02-1ce5-4dc1-abfa-f8f7d59d00f2,Air Senegal
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,8944ff81-f687-4d33-8717-b7252d2ab280,Azul
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,da07b892-b293-4c4b-9389-ceefcc828582,Citilink
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,88867199-7daa-4ad3-9f1a-1db6b341befd,Corsair
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,786f529b-d290-47fe-9ab5-77c89c39eb6a,Delta Airlines
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,8705124b-2ef5-47e8-ba09-83354ea2691a,Garuda Indonesia
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,a9afe182-7961-4633-8439-2ce41ca2bbc1,Generic
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,60b24fcb-b53b-4653-9841-c3d7efa94bd5,HiFly
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,4a40dc28-fbca-44b5-aef7-9fc1f0846cca,Iberojet
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,5c9e63ea-683e-4ea6-8169-3e75bb971063,LionAir
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,2599748b-8045-4ab4-b00f-4ee663519e59,Azul Rosa
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,2f5e614b-f825-43b9-9c75-b504e60f4776,Airbus
+474810ee-503c-44f2-a305-c176ec8cc431,Airbus A330-900,75b5f368-67ce-4727-ab3a-309a38fe073c,Air Belgium
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,701c826b-a160-4b1a-a89f-08d0afb4af1b,Air Baltic
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,23cfd4c6-683e-4f85-8596-6afd98d8c26d,Air Baltic (Special)
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,e300cabf-165d-48ea-8b5f-937f292ba7cf,Air Canada
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,1108c06f-4161-46e4-999e-6829debe0465,Air Austral
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,4654cca9-6eed-4252-8878-77b44374ffdd,Air Tanzania
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,81032922-203c-4667-afe3-f5ca7daf1ff6,EgyptAir Express
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,8b7518b9-34d6-4ec4-ba9a-5903e828df1b,EgyptAir
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,6f485346-3a7d-4f3d-80db-170a992476da,Breeze
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,ace463fa-5bea-4978-a847-3324efadf44b,Ibom Air
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,a55c7826-70f1-4917-b1a6-c247f85540a0,Air Canada Retro
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,cd8085a5-015b-433f-a623-6a59de2523ba,Air France
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,1acf552a-b9ee-4fbc-b27b-ff846f1ac367,Air Manas
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,49937d10-4723-4517-b6c3-e00b7809f191,Delta Air Lines
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,c04aef45-800a-4e54-91c7-84be3077891d,JetBlue
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,23ae25ef-0b05-459a-8934-f766edb5c5b2,Swiss
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,7048a556-ffb9-41b0-9016-d895d9733a29,Korean Air
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,1cfd2c9a-8671-4903-b76f-dd2b517ecdfe,Airbus
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,a602c22e-36b0-43db-912f-f7e3ea755938,Air Vanuatu
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,e30a7b45-4ed7-4768-b575-c8dabe1c1c2d,Bombardier
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,74a10c62-6e92-402b-a361-236cecc66201,Iraqi Airways
+710c84ae-6fdc-4c4a-ac3b-4031c3036e98,Airbus A220-300,a821bc78-965c-4121-81d0-2d82bd6ebcd5,Generic
