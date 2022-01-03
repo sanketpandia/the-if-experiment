@@ -1,4 +1,22 @@
 {
+    "A220-300": {
+        "Airplane": "A220-300",
+        "Ceiling": "FL410",
+        "MTOW": "70.900kg",
+        "MLW": "60.600kg",
+        "V2": "140kts",
+        "Climb to 5000ft": "165kts / 3500",
+        "Climb to 15000ft": "280kts / 2500",
+        "Climb to 24000ft": "280kts / 2000",
+        "Mach Climb": "M.76 / 1800",
+        "Cruise speed": "Mach 0.78",
+        "Typical Range": "3.400nm",
+        "Descend to 24000ft": "M.77 / 1500",
+        "Descend to 10000ft": "250kts / 2200",
+        "Approach / MCS": "210kts / 1700",
+        "Landing": "135kts",
+        "Flaps at descend": "1@220kts 2@200kts 3@180kts F@170kts"
+    },
     "A318-100": {
         "Airplane": "A318-100",
         "Ceiling": "FL410",
