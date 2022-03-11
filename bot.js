@@ -52,7 +52,6 @@ client.on('ready', () => {
 
 client.on('message', message => {
     //check to see if the message author is a bot or not
-    if(message.author.bot) return;
     
     //Part below only looks for specific command
     if(!message.content.startsWith(botPrefix)) return;
