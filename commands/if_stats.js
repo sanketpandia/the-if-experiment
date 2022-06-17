@@ -19,10 +19,10 @@ module.exports = {
                 message.channel.send('Could not find the username in IF. Check again to make sure the name is proper');
                 return;
             }
-            try{
-            let responseMessage = await message_creator.createUserMessage(userInfo);
-            message.channel.send(responseMessage)
-            }catch{
+            try {
+                let responseMessage = await message_creator.createUserMessage(userInfo);
+                message.channel.send(responseMessage);
+            } catch {
                 message.channel.send(userInfo.toString());
             }
         }

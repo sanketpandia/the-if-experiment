@@ -194,6 +194,38 @@ exports.createATCMessage = async function (atc) {
     return atcResponse;
 }
 
+/**
+ * Returns the ATC rank given the rank number from API response
+ * API Reference: https://infiniteflight.com/guide/developer-reference/live-api/user-stats#atc-ranks
+ * 
+ * @param {number} rankIndex 
+ * @throws
+ */
+function getATCRank(rankIndex) {
+    if (rankIndex == null) {
+        throw new Error('Null value for ATC rank');
+    }
+
+    rankIndex = +rankIndex;
+
+    let ranks = [
+        "Observer",
+        "IFATC Trainee",
+        "IFATC Apprentice",
+        "IFATC Specialist",
+        "IFATC Officer",
+        "IFATC Supervisor",
+        "IFATC Recruiter",
+        "IFATC Manager",
+    ];
+
+    if (rankIndex < 0 || rankIndex >= ranks.length) {
+        throw new Error('Invalid ATC rank number: ' + rankIndex);
+    }
+
+    return ranks[rankIndex];
+}
+
 exports.createUserMessage = async function (userInfo) {
 
     var hours = Math.floor(userInfo['flightTime'] / 60);
@@ -236,6 +268,10 @@ exports.createUserMessage = async function (userInfo) {
         }, {
             name: "ATC Ops",
             value: userInfo['atcOperations'],
+            inline: true
+        }, {
+            name: "ATC Rank",
+            value: getATCRank(userInfo['atcRank']),
             inline: true
         }
     ];
